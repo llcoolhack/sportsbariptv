@@ -1,0 +1,181 @@
+#EXTM3U
+
+# US FTA
+#EXTINF:-1 group-title="US FTA",NBC
+http://fl1.moveonjoy.com/NBC/index.m3u8
+#EXTINF:-1 group-title="US FTA",CBS
+http://fl1.moveonjoy.com/CBS/index.m3u8
+#EXTINF:-1 group-title="US FTA",ABC
+http://fl1.moveonjoy.com/ABC/index.m3u8
+#EXTINF:-1 group-title="US FTA",TNT
+http://84.17.40.25/TNT/index.m3u8
+#EXTINF:-1 group-title="US FTA",FOX
+https://fl1.moveonjoy.com/FOX/index.m3u8
+#EXTINF:-1 group-title="US FTA",TBS
+https://fl31.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="US FTA",USA
+http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
+
+# Australia
+#EXTINF:-1 group-title="Australia",Sky Racing 1
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+#EXTINF:-1 group-title="Australia",Sky Racing 2
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 group-title="Australia",Nine
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
+#EXTINF:-1 group-title="Australia",Seven
+https://i.mjh.nz/.r/seven-bri.m3u8
+#EXTINF:-1 group-title="Australia",Fox Cricket
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
+#EXTINF:-1 group-title="Australia",Fox League
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
+#EXTINF:-1 group-title="Australia",Fox Footy
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=800
+#EXTINF:-1 group-title="Australia",Racing.com
+https://i.mjh.nz/.r/racing-fast.m3u8
+
+# US Sport
+#EXTINF:-1 group-title="US Sport",ESPN (US)
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=476839
+#EXTINF:-1 group-title="US Sport",ESPN2 (US)
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1830
+#EXTINF:-1 group-title="US Sport",ESPNU
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="US Sport",Big 10
+https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",SEC Network
+http://143.244.60.30/SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",ACC Network
+https://fl31.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",ACC Digital Network
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US Sport",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="US Sport",Fox Sports 2
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=733
+#EXTINF:-1 group-title="US Sport",CBS Sports Network
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="US Sport",NHL Network
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",SNY
+https://fl7.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="US Sport",MSGHD
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="US Sport",MSG Sportsnet
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=738
+#EXTINF:-1 group-title="US Sport",YES Network
+https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US Sport",NBC Sports Bay Area
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=819
+#EXTINF:-1 group-title="US Sport",NBC Sports Boston
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=477207
+#EXTINF:-1 group-title="US Sport",NBC Sports California
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=820
+#EXTINF:-1 group-title="US Sport",NBC Sports Chicago
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=822
+#EXTINF:-1 group-title="US Sport",NBC Sports Philadelphia
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=477827
+#EXTINF:-1 group-title="US Sport",NESN
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=888
+#EXTINF:-1 group-title="US Sport",Fanduel Sports Network
+https://fl31.moveonjoy.com/PAC_12/index.m3u8
+
+# NBA
+#EXTINF:-1 group-title="NBA",League Pass 1
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1036
+#EXTINF:-1 group-title="NBA",League Pass 2
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1037
+#EXTINF:-1 group-title="NBA",League Pass 3
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1038
+#EXTINF:-1 group-title="NBA",League Pass 4
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1039
+#EXTINF:-1 group-title="NBA",League Pass 5
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1040
+#EXTINF:-1 group-title="NBA",League Pass 6
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1041
+#EXTINF:-1 group-title="NBA",League Pass 7
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1042
+#EXTINF:-1 group-title="NBA",League Pass 8
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1043
+#EXTINF:-1 group-title="NBA",League Pass 9
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1044
+#EXTINF:-1 group-title="NBA",League Pass 10
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1045
+#EXTINF:-1 group-title="NBA",League Pass 11
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1046
+#EXTINF:-1 group-title="NBA",League Pass 12
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1047
+#EXTINF:-1 group-title="NBA",League Pass 13
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1048
+#EXTINF:-1 group-title="NBA",League Pass 14
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1049
+#EXTINF:-1 group-title="NBA",League Pass 15
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1050
+
+# Stan Sports
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 01
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473076
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 02
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473077
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 03
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473078
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 04
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473079
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 05
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473080
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 06
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473081
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 07
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473082
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 08
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473083
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 09
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473084
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 10
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473085
+#EXTINF:-1 group-title="Stan Sports",STAN EVENT 11
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473086
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 12
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473087
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 13
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473088
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 14
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473089
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 15
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473090
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 16
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473091
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 17
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473092
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 18
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473093
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 19
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473094
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 20
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473095
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 21
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473096
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 22
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473097
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 23
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473098
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 24
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473099
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 25
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473100
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 26
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473101
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 27
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473102
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 28
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473103
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 29
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473104
+#EXTINF:-1 group-title="Stan Sports",STAN SPORTS 30
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
