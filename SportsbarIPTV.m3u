@@ -229,5 +229,5 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=473104
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
 
 # Special Events
-#EXTINF:-1 tvg-id="Event 1" tvg-logo="https://github.com/llcoolhack/sportsbarplus/blob/main/sportsbar-icon.png?raw=true" group-title="Special Events",Event 1
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=476839
+#EXTINF:-1 tvg-id="Army v Navy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Army-Navy_football_game_logo.svg/2560px-Army-Navy_football_game_logo.svg.png" group-title="Special Events",Army V Navy
+http://fl1.moveonjoy.com/CBS/index.m3u8
