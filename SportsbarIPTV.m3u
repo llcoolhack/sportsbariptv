@@ -27,7 +27,7 @@ https://dai.google.com/linear/hls/pb/event/qOi3HPO6Tw2L-U4x99U3IQ/stream/def3610
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="mjh-gem-qld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/2560px-Nine_Network_logo_%282008%29.svg.png" group-title="Australia",Nine Gem
 https://i.mjh.nz/.r/gem-qld.m3u8
-#EXTINF:-1 tvg-id="Seven" tvg-logo="tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png/2560px-Seven_Network_logo.svg.png" group-title="Australia",Seven
+#EXTINF:-1 tvg-id="Seven" tvg-logo="tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" group-title="Australia",Seven
 https://i.mjh.nz/.r/seven-bri.m3u8
 #EXTINF:-1 tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" group-title="Australia",Seven Mate
 https://i.mjh.nz/.r/7mate-bri.m3u8
@@ -75,7 +75,7 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLB_Network" tvg-logo="https://img.zuzz.tv/assets/channels/3L0eJOtGsM3dfPE3EKTyrlSOSy3eLt5gkxDWBfITnL2JXcK8D6.png" group-title="US Sport",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-logo="https://images.seeklogo.com/logo-png/52/1/sportsnet-new-york-logo-png_seeklogo-521608.png" group-title="US Sport",SNY
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="US Sport",SNY
 https://fl7.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-id="Madison Square Garden" tvg-logo="https://img.zuzz.tv/assets/channels/uTIfEcLMqxJjXaVZaGqCLBWaJCN6ML7saYVypSeCMAoVqNoNUe.png" group-title="US Sport",MSGHD
 https://fl2.moveonjoy.com/MSG/index.m3u8
@@ -230,4 +230,4 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
 
 # Special Events
 #EXTINF:-1 tvg-id="Event 1" tvg-logo="https://github.com/llcoolhack/sportsbarplus/blob/main/sportsbar-icon.png?raw=true" group-title="Special Events",Event 1
-
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=476839
