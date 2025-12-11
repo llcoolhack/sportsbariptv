@@ -21,10 +21,18 @@ http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 #EXTINF:-1 tvg-id="Sky_Racing_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 tvg-id="Ten" tvg-logo="https://en.wikipedia.org/wiki/Network_10#/media/File:Network_10_logo_2025.svg" group-title="Australia",Ten
+https://i.mjh.nz/.r/10-qld.m3u8
 #EXTINF:-1 tvg-id="Nine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/2560px-Nine_Network_logo_%282008%29.svg.png" group-title="Australia",Nine
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/2560px-Seven_Network_logo.svg.png" group-title="Australia",Seven
+#EXTINF:-1 tvg-id="Nine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/2560px-Nine_Network_logo_%282008%29.svg.png" group-title="Australia",Nine Gem
+https://i.mjh.nz/.r/gem-qld.m3u8
+#EXTINF:-1 tvg-id="Seven" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/2560px-Seven_Network_logo.svg.png" group-title="Australia",Seven
 https://i.mjh.nz/.r/seven-bri.m3u8
+#EXTINF:-1 tvg-id="Seven Mate" tvg-logo="https://en.wikipedia.org/wiki/7mate#/media/File:7mate_logo_2020.svg" group-title="Australia",Seven Mate
+https://i.mjh.nz/.r/7mate-bri.m3u8
+#EXTINF:-1 tvg-id="ABC Aus" tvg-logo="https://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation#/media/File:Australian_Broadcasting_Corporation_logo.svg" group-title="Australia",ABC
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/23fd2612d8804b2690b026f92cead114/index.m3u8?hdnea=st=1765408637~exp=1765409537~acl=/*~hmac=092a4f70b255c29a6a85c3ca96cdf352a7d02f85d82984b641d10d8b61848a84
 #EXTINF:-1 tvg-id="Fox_Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Australia",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-id="Fox_League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Australia",Fox League
