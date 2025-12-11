@@ -41,6 +41,10 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=7022
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=800
 #EXTINF:-1 tvg-id="Racing_com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Australia",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
+#EXTINF:-1 tvg-id="ESPN_AUS" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Australia",ESPN
+http://freeiptv.ottc.xyz:80/live/129561890350/996005345521/23625.m3u8
+#EXTINF:-1 tvg-id="ESPN2_AUS" tvg-logo="https://img.zuzz.tv/assets/channels/DbRwK42zSLyeCsWYxv1SIQcvBsHzhhEsUr8pW1pPmDoKVQtcEt.png" group-title="Australia",ESPN2
+http://freeiptv.ottc.xyz:80/live/129561890350/996005345521/23626.m3u8
 
 # US Sport
 #EXTINF:-1 tvg-id="ESPN_US" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="US Sport",ESPN (US)
@@ -126,64 +130,104 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=1049
 #EXTINF:-1 tvg-id="League_Pass_15" tvg-logo="https://img.zuzz.tv/assets/channels/nQWkxr73TBBJoByDoKwirX90t4efemvAVwYF15PM9Xt7uD8pk2.png" group-title="NBA",League Pass 15
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=1050
 
-# Stan Sports
-#EXTINF:-1 tvg-id="STAN_EVENT_01" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69738.png" group-title="Stan Sports",STAN EVENT 01
+# NFL
+#EXTINF:-1 tvg-id="1056" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1056.png" group-title="NFL",NFL 1
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1056
+#EXTINF:-1 tvg-id="1057" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1057.png" group-title="NFL",NFL 2
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1057
+#EXTINF:-1 tvg-id="1058" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1058.png" group-title="NFL",NFL 3
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1058
+#EXTINF:-1 tvg-id="1059" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1059.png" group-title="NFL",NFL 4
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1059
+#EXTINF:-1 tvg-id="1060" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1060.png" group-title="NFL",NFL 5
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1060
+#EXTINF:-1 tvg-id="1061" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1061.png" group-title="NFL",NFL 6
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1061
+#EXTINF:-1 tvg-id="1062" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="NFL",NFL 7
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1062
+#EXTINF:-1 tvg-id="1063" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1063.png" group-title="NFL",NFL 8
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1063
+#EXTINF:-1 tvg-id="1064" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1064.png" group-title="NFL",NFL 9
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1064
+#EXTINF:-1 tvg-id="1065" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1065.png" group-title="NFL",NFL 10
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1065
+#EXTINF:-1 tvg-id="1066" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1066.png" group-title="NFL",NFL 11
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1066
+#EXTINF:-1 tvg-id="1067" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1067.png" group-title="NFL",NFL 12
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1067
+#EXTINF:-1 tvg-id="1068" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1068.png" group-title="NFL",NFL 13
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1068
+#EXTINF:-1 tvg-id="1069" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1069.png" group-title="NFL",NFL 14
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1069
+#EXTINF:-1 tvg-id="1070" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1070.png" group-title="NFL",NFL 15
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=1070
+#EXTINF:-1 tvg-id="473124" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69786.png" group-title="NFL",NFL 16
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473124
+#EXTINF:-1 tvg-id="473117" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",NFL 17
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473117
+
+# Stan Sport
+#EXTINF:-1 tvg-id="STAN_EVENT_01" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69738.png" group-title="Stan Sport",STAN EVENT 01
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473076
-#EXTINF:-1 tvg-id="STAN_EVENT_02" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69739.png" group-title="Stan Sports",STAN EVENT 02
+#EXTINF:-1 tvg-id="STAN_EVENT_02" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69739.png" group-title="Stan Sport",STAN EVENT 02
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473077
-#EXTINF:-1 tvg-id="STAN_EVENT_03" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69740.png" group-title="Stan Sports",STAN EVENT 03
+#EXTINF:-1 tvg-id="STAN_EVENT_03" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69740.png" group-title="Stan Sport",STAN EVENT 03
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473078
-#EXTINF:-1 tvg-id="STAN_EVENT_04" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69741.png" group-title="Stan Sports",STAN EVENT 04
+#EXTINF:-1 tvg-id="STAN_EVENT_04" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69741.png" group-title="Stan Sport",STAN EVENT 04
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473079
-#EXTINF:-1 tvg-id="STAN_EVENT_05" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69742.png" group-title="Stan Sports",STAN EVENT 05
+#EXTINF:-1 tvg-id="STAN_EVENT_05" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69742.png" group-title="Stan Sport",STAN EVENT 05
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473080
-#EXTINF:-1 tvg-id="STAN_EVENT_06" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69743.png" group-title="Stan Sports",STAN EVENT 06
+#EXTINF:-1 tvg-id="STAN_EVENT_06" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69743.png" group-title="Stan Sport",STAN EVENT 06
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473081
-#EXTINF:-1 tvg-id="STAN_EVENT_07" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69744.png" group-title="Stan Sports",STAN EVENT 07
+#EXTINF:-1 tvg-id="STAN_EVENT_07" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69744.png" group-title="Stan Sport",STAN EVENT 07
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473082
-#EXTINF:-1 tvg-id="STAN_EVENT_08" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69745.png" group-title="Stan Sports",STAN EVENT 08
+#EXTINF:-1 tvg-id="STAN_EVENT_08" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69745.png" group-title="Stan Sport",STAN EVENT 08
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473083
-#EXTINF:-1 tvg-id="STAN_EVENT_09" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69746.png" group-title="Stan Sports",STAN EVENT 09
+#EXTINF:-1 tvg-id="STAN_EVENT_09" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69746.png" group-title="Stan Sport",STAN EVENT 09
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473084
-#EXTINF:-1 tvg-id="STAN_EVENT_10" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69747.png" group-title="Stan Sports",STAN EVENT 10
+#EXTINF:-1 tvg-id="STAN_EVENT_10" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69747.png" group-title="Stan Sport",STAN EVENT 10
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473085
-#EXTINF:-1 tvg-id="STAN_EVENT_11" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69748.png" group-title="Stan Sports",STAN EVENT 11
+#EXTINF:-1 tvg-id="STAN_EVENT_11" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69748.png" group-title="Stan Sport",STAN EVENT 11
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473086
-#EXTINF:-1 tvg-id="STAN_SPORTS_12" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69749.png" group-title="Stan Sports",STAN SPORTS 12
+#EXTINF:-1 tvg-id="STAN_SPORTS_12" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69749.png" group-title="Stan Sport",STAN SPORTS 12
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473087
-#EXTINF:-1 tvg-id="STAN_SPORTS_13" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69750.png" group-title="Stan Sports",STAN SPORTS 13
+#EXTINF:-1 tvg-id="STAN_SPORTS_13" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69750.png" group-title="Stan Sport",STAN SPORTS 13
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473088
-#EXTINF:-1 tvg-id="STAN_SPORTS_14" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69751.png" group-title="Stan Sports",STAN SPORTS 14
+#EXTINF:-1 tvg-id="STAN_SPORTS_14" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69751.png" group-title="Stan Sport",STAN SPORTS 14
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473089
-#EXTINF:-1 tvg-id="STAN_SPORTS_15" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69752.png" group-title="Stan Sports",STAN SPORTS 15
+#EXTINF:-1 tvg-id="STAN_SPORTS_15" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69752.png" group-title="Stan Sport",STAN SPORTS 15
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473090
-#EXTINF:-1 tvg-id="STAN_SPORTS_16" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69753.png" group-title="Stan Sports",STAN SPORTS 16
+#EXTINF:-1 tvg-id="STAN_SPORTS_16" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69753.png" group-title="Stan Sport",STAN SPORTS 16
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473091
-#EXTINF:-1 tvg-id="STAN_SPORTS_17" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69754.png" group-title="Stan Sports",STAN SPORTS 17
+#EXTINF:-1 tvg-id="STAN_SPORTS_17" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69754.png" group-title="Stan Sport",STAN SPORTS 17
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473092
-#EXTINF:-1 tvg-id="STAN_SPORTS_18" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69755.png" group-title="Stan Sports",STAN SPORTS 18
+#EXTINF:-1 tvg-id="STAN_SPORTS_18" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69755.png" group-title="Stan Sport",STAN SPORTS 18
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473093
-#EXTINF:-1 tvg-id="STAN_SPORTS_19" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69756.png" group-title="Stan Sports",STAN SPORTS 19
+#EXTINF:-1 tvg-id="STAN_SPORTS_19" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69756.png" group-title="Stan Sport",STAN SPORTS 19
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473094
-#EXTINF:-1 tvg-id="STAN_SPORTS_20" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69757.png" group-title="Stan Sports",STAN SPORTS 20
+#EXTINF:-1 tvg-id="STAN_SPORTS_20" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69757.png" group-title="Stan Sport",STAN SPORTS 20
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473095
-#EXTINF:-1 tvg-id="STAN_SPORTS_21" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69758.png" group-title="Stan Sports",STAN SPORTS 21
+#EXTINF:-1 tvg-id="STAN_SPORTS_21" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69758.png" group-title="Stan Sport",STAN SPORTS 21
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473096
-#EXTINF:-1 tvg-id="STAN_SPORTS_22" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69759.png" group-title="Stan Sports",STAN SPORTS 22
+#EXTINF:-1 tvg-id="STAN_SPORTS_22" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69759.png" group-title="Stan Sport",STAN SPORTS 22
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473097
-#EXTINF:-1 tvg-id="STAN_SPORTS_23" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69760.png" group-title="Stan Sports",STAN SPORTS 23
+#EXTINF:-1 tvg-id="STAN_SPORTS_23" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69760.png" group-title="Stan Sport",STAN SPORTS 23
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473098
-#EXTINF:-1 tvg-id="STAN_SPORTS_24" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69761.png" group-title="Stan Sports",STAN SPORTS 24
+#EXTINF:-1 tvg-id="STAN_SPORTS_24" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69761.png" group-title="Stan Sport",STAN SPORTS 24
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473099
-#EXTINF:-1 tvg-id="STAN_SPORTS_25" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69762.png" group-title="Stan Sports",STAN SPORTS 25
+#EXTINF:-1 tvg-id="STAN_SPORTS_25" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69762.png" group-title="Stan Sport",STAN SPORTS 25
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473100
-#EXTINF:-1 tvg-id="STAN_SPORTS_26" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69763.png" group-title="Stan Sports",STAN SPORTS 26
+#EXTINF:-1 tvg-id="STAN_SPORTS_26" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69763.png" group-title="Stan Sport",STAN SPORTS 26
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473101
-#EXTINF:-1 tvg-id="STAN_SPORTS_27" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69764.png" group-title="Stan Sports",STAN SPORTS 27
+#EXTINF:-1 tvg-id="STAN_SPORTS_27" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69764.png" group-title="Stan Sport",STAN SPORTS 27
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473102
-#EXTINF:-1 tvg-id="STAN_SPORTS_28" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69765.png" group-title="Stan Sports",STAN SPORTS 28
+#EXTINF:-1 tvg-id="STAN_SPORTS_28" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69765.png" group-title="Stan Sport",STAN SPORTS 28
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473103
-#EXTINF:-1 tvg-id="STAN_SPORTS_29" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69766.png" group-title="Stan Sports",STAN SPORTS 29
+#EXTINF:-1 tvg-id="STAN_SPORTS_29" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69766.png" group-title="Stan Sport",STAN SPORTS 29
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473104
-#EXTINF:-1 tvg-id="STAN_SPORTS_30" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69767.png" group-title="Stan Sports",STAN SPORTS 30
+#EXTINF:-1 tvg-id="STAN_SPORTS_30" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69767.png" group-title="Stan Sport",STAN SPORTS 30
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
+
+# Special Events
+#EXTINF:-1 tvg-id="Event 1" tvg-logo="https://github.com/llcoolhack/sportsbarplus/blob/main/sportsbar-icon.png?raw=true" group-title="Special Events",Event 1
+
