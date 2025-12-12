@@ -124,6 +124,9 @@
 <channel id="NBCSportsCalifornia.us">
 <display-name>NBC Sports California</display-name>
 </channel>
+<channel id="NBCSportsNorthwestStreaming.us">
+<display-name>NBC Sports Chicago</display-name>
+</channel>
 <channel id="NBCSportsPhiladelphia.us">
 <display-name>NBC Sports Philadelphia</display-name>
 </channel>
@@ -12791,6 +12794,54 @@
 <title lang="en">On the Rise: JuJu Watkins</title>
 <desc lang="en">JuJu Watkins, along with her family and friends, gives viewers an exclusive look into USC Trojans guards' life and journey on and off the court.</desc>
 </programme>
+<programme start="20251212060000 +0000" stop="20251212140000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251212140000 +0000" stop="20251212220000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251212220000 +0000" stop="20251213060000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251213060000 +0000" stop="20251213140000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251213140000 +0000" stop="20251213220000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251213220000 +0000" stop="20251214060000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251214060000 +0000" stop="20251214140000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251214140000 +0000" stop="20251214220000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251214220000 +0000" stop="20251215060000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251215060000 +0000" stop="20251215140000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251215140000 +0000" stop="20251215220000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
+<programme start="20251215220000 +0000" stop="20251216060000 +0000" channel="NBCSportsNorthwestStreaming.us">
+<title lang="en">SIGN OFF</title>
+<desc lang="en">Sign off.</desc>
+</programme>
 <programme start="20251212000000 +0000" stop="20251212010000 +0000" channel="NBCSportsPhiladelphia.us">
 <title lang="en">Fantasy Football Happy Hour With Matthew Berry</title>
 <desc lang="en">Matthew Berry and his co-hosts give inside tips on rankings, waiver wire advice, who to start, who to sit and love-hate analysis.</desc>
@@ -17165,22 +17216,5 @@
 </programme>
 <programme start="20251215130000 +0000" stop="20251215160000 +0000" channel="YesNetwork.us">
 <title lang="en">Milwaukee Bucks vs. Brooklyn Nets</title>
-<desc lang="en">NBA Basketball</desc>
-</programme>
-<programme start="20251215160000 +0000" stop="20251215190000 +0000" channel="YesNetwork.us">
-<title lang="en">Milwaukee Bucks vs. Brooklyn Nets</title>
-<desc lang="en">NBA Basketball</desc>
-</programme>
-<programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="YesNetwork.us">
-<title lang="en">Milwaukee Bucks vs. Brooklyn Nets</title>
-<desc lang="en">NBA Basketball</desc>
-</programme>
-<programme start="20251215220000 +0000" stop="20251215230000 +0000" channel="YesNetwork.us">
-<title lang="en">New York Yankees Press Conference</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20251215230000 +0000" stop="20251216000000 +0000" channel="YesNetwork.us">
-<title lang="en">Yankees Classics</title>
-<desc lang="en">Great games and individual performances of past telecasts.</desc>
-</programme>
-</tv>
+
+
