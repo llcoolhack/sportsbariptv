@@ -17216,5 +17216,24 @@
 </programme>
 <programme start="20251215130000 +0000" stop="20251215160000 +0000" channel="YesNetwork.us">
 <title lang="en">Milwaukee Bucks vs. Brooklyn Nets</title>
+<desc lang="en">NBA Basketball</desc>
+</programme>
+<programme start="20251215160000 +0000" stop="20251215190000 +0000" channel="YesNetwork.us">
+<title lang="en">Milwaukee Bucks vs. Brooklyn Nets</title>
+<desc lang="en">NBA Basketball</desc>
+</programme>
+<programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="YesNetwork.us">
+<title lang="en">Milwaukee Bucks vs. Brooklyn Nets</title>
+<desc lang="en">NBA Basketball</desc>
+</programme>
+<programme start="20251215220000 +0000" stop="20251215230000 +0000" channel="YesNetwork.us">
+<title lang="en">New York Yankees Press Conference</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20251215230000 +0000" stop="20251216000000 +0000" channel="YesNetwork.us">
+<title lang="en">Yankees Classics</title>
+<desc lang="en">Great games and individual performances of past telecasts.</desc>
+</programme>
+</tv>
 
 
