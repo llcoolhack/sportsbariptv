@@ -215,6 +215,9 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=473103
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473104
 #EXTINF:-1 tvg-chno="119" tvg-id="STAN_SPORTS_30" tvg-name="STAN SPORTS 30" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69767.png" group-title="Stan Sport",STAN SPORTS 30
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
-#EXTINF:-1 tvg-chno="200" tvg-id="Army v Navy" tvg-name="Army V Navy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Army-Navy_football_game_logo.svg/2560px-Army-Navy_football_game_logo.svg.png" group-title="Special Events",Army V Navy
-http://fl1.moveonjoy.com/CBS/index.m3u8
-
+#EXTINF:-1 tvg-chno="200" tvg-id="Colts @ Seahawks" tvg-name="Colts @ Seahawks" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="Special Events",Colts @ Seahawks
+https://serv10g.zuzzplayer.xyz/hls/nfl3z/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSAxMDo0NjoxMSBQTSZoYXNoX3ZhbHVlPUV6L1hOM1BXQVlUVmNBSGFxeVpwUlE9PSZ2YWxpZG1pbnV0ZXM9Mjgw
+#EXTINF:-1 tvg-chno="201" tvg-id="49ers @ Titans" tvg-name="49ers @ Titans" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="Special Events",49ers @ Titans
+https://serv10g.zuzzplayer.xyz/hls/nfl13z/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSAxMDo0NjoxMSBQTSZoYXNoX3ZhbHVlPUV6L1hOM1BXQVlUVmNBSGFxeVpwUlE9PSZ2YWxpZG1pbnV0ZXM9Mjgw
+#EXTINF:-1 tvg-chno="201" tvg-id="Saints @ Panthers" tvg-name="Saints @ Panthers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="Special Events",Saints @ Panthers
+https://serv10g.zuzzplayer.xyz/hls/nfl12z/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSAxMDo0NjoxMSBQTSZoYXNoX3ZhbHVlPUV6L1hOM1BXQVlUVmNBSGFxeVpwUlE9PSZ2YWxpZG1pbnV0ZXM9Mjgw
