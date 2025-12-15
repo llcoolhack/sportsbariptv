@@ -155,6 +155,36 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=1070
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473124
 #EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="NFL 17" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",NFL 17
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473117
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="NHL 1" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 1
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=930
+#EXTINF:-1 tvg-id="NHLCenterIce770.us" tvg-name="NHL 2" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 2
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=931
+#EXTINF:-1 tvg-id="NHLCenterIce771.us" tvg-name="NHL 3" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 3
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=932
+#EXTINF:-1 tvg-id="NHLCenterIce772.us" tvg-name="NHL4" tvg-logo="" group-title="NHL" parent-code="NHL",NHL4
+ http://19n0v-rkdyiptv.wasmer.app/play.php?id=933
+#EXTINF:-1 tvg-id="NHLCenterIce773.us" tvg-name="NHL 5" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 5
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=934
+#EXTINF:-1 tvg-id="NHLCenterIce774.us" tvg-name="NHL 6" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 6
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=935
+#EXTINF:-1 tvg-id="NHLCenterIce775.us" tvg-name="NHL 7" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 7
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=936
+#EXTINF:-1 tvg-id="NHLCenterIce776.us" tvg-name="NHL 8" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 8
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=937
+#EXTINF:-1 tvg-id="NHLCenterIce777.us" tvg-name="NHL 9" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 9
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=938
+#EXTINF:-1 tvg-id="NHLCenterIce778.us" tvg-name="NHL 10" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 10
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=939
+#EXTINF:-1 tvg-id="NHLCenterIce779.us" tvg-name="NHL 11" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 11
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=940
+#EXTINF:-1 tvg-id="NHLCenterIce780.us" tvg-name="NHL 12" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 12
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=941
+#EXTINF:-1 tvg-id="NHLCenterIce781.us" tvg-name="NHL 13" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 13
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=942
+#EXTINF:-1 tvg-id="NHLCenterIce781.us" tvg-name="NHL 14" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 14
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=943
+#EXTINF:-1 tvg-id="NHLCenterIce782.us" tvg-name="NHL 15" tvg-logo="" group-title="NHL" parent-code="NHL",NHL 15
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=944
 #EXTINF:-1 tvg-chno="90" tvg-id="STAN_EVENT_01" tvg-name="STAN EVENT 01" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69738.png" group-title="Stan Sport",STAN EVENT 01
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473076
 #EXTINF:-1 tvg-chno="91" tvg-id="STAN_EVENT_02" tvg-name="STAN EVENT 02" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69739.png" group-title="Stan Sport",STAN EVENT 02
@@ -215,9 +245,3 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=473103
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473104
 #EXTINF:-1 tvg-chno="119" tvg-id="STAN_SPORTS_30" tvg-name="STAN SPORTS 30" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69767.png" group-title="Stan Sport",STAN SPORTS 30
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
-#EXTINF:-1 tvg-chno="200" tvg-id="Colts @ Seahawks" tvg-name="Colts @ Seahawks" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="Special Events",Colts @ Seahawks
-https://serv10g.zuzzplayer.xyz/hls/nfl3z/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSAxMDo0NjoxMSBQTSZoYXNoX3ZhbHVlPUV6L1hOM1BXQVlUVmNBSGFxeVpwUlE9PSZ2YWxpZG1pbnV0ZXM9Mjgw
-#EXTINF:-1 tvg-chno="201" tvg-id="49ers @ Titans" tvg-name="49ers @ Titans" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="Special Events",49ers @ Titans
-https://serv10g.zuzzplayer.xyz/hls/nfl13z/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSAxMDo0NjoxMSBQTSZoYXNoX3ZhbHVlPUV6L1hOM1BXQVlUVmNBSGFxeVpwUlE9PSZ2YWxpZG1pbnV0ZXM9Mjgw
-#EXTINF:-1 tvg-chno="201" tvg-id="Saints @ Panthers" tvg-name="Saints @ Panthers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="Special Events",Saints @ Panthers
-https://serv10g.zuzzplayer.xyz/hls/nfl12z/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSAxMDo0NjoxMSBQTSZoYXNoX3ZhbHVlPUV6L1hOM1BXQVlUVmNBSGFxeVpwUlE9PSZ2YWxpZG1pbnV0ZXM9Mjgw
