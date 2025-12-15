@@ -27,7 +27,9 @@ https://i.mjh.nz/.r/gem-qld.m3u8
 https://i.mjh.nz/.r/seven-bri.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="7mateBrisbane.au" tvg-name="Seven Mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" group-title="Australia",Seven Mate
 https://i.mjh.nz/.r/7mate-bri.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="ABCBrisbane.au" tvg-name="ABC TV" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
+#EXTINF:-1 tvg-chno="12" tvg-id="ABCBrisbane.au" tvg-name="ABC TV" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/7006.png" group-title="Australia",SBS
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=7006
+#EXTINF:-1 tvg-chno="13" tvg-id="SBS.au" tvg-name="SBS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
 https://c.mjh.nz/abc-qld.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Australia",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
@@ -545,3 +547,65 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=472731
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472732
 #EXTINF:-1 tvg-id="472733" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69395.png" group-title="ESPN+",ESPN+150
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472733
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title=“UFC”,UFC 01
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=475230
+#EXTINF:-1 tvg-id="480240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title=“UFC”,UFC 02
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=480240
+#EXTINF:-1 tvg-id="475232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title=“UFC”,UFC 03
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=475232
+#EXTINF:-1 tvg-id="475233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title=“UFC”,UFC 04
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=475233
+#EXTINF:-1 tvg-id="474191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title=“UFC”,UFC 05
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=474191
+#EXTINF:-1 tvg-id="474190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title=“UFC”,UFC 06
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=474190
+#EXTINF:-1 tvg-id="473724" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bluey_%28TV_series%29_logo.svg/2560px-Bluey_%28TV_series%29_logo.svg.png" group-title=“Kids”,BLUEY.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473724
+#EXTINF:-1 tvg-id="4000" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Peppa2025.svg/revision/latest?cb=20250814151032" group-title=“Kids”,PEPPA PIG
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4000
+#EXTINF:-1 tvg-id="3991" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png" group-title=“Kids”,PAW PATROL
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=3991
+#EXTINF:-1 tvg-id="4371" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4371.jpg" group-title=“Kids”,FUTURAMA
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4371
+#EXTINF:-1 tvg-id="4153" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Pingu_Logo.png" group-title=“Kids”,PINGU
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4153
+#EXTINF:-1 tvg-id="4149" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4149.png" group-title=“Pokemon”,POKEMON
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4149
+#EXTINF:-1 tvg-id="4177" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4177.jpg" group-title=“TV Classics”,24/7 SEINFELD
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4177
+#EXTINF:-1 tvg-id="473537" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70196.jpg" group-title="TV Classics",24/7 FRIENDS.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473537
+#EXTINF:-1 tvg-id="473646" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 JAMES BOND.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473646
+#EXTINF:-1 tvg-id="473549" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70208.jpg" group-title="TV Classics",24/7 EVERYBODY LOVES RAYMOND.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473549
+#EXTINF:-1 tvg-id="4288" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4288.jpg" group-title="TV Classics",24/7 THE SIMPSONS
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4288
+#EXTINF:-1 tvg-id="473413" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 KING OF QUEENS.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473413
+#EXTINF:-1 tvg-id="473480" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70139.jpg" group-title="TV Classics",24/7 MODERN FAMILY.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473480
+#EXTINF:-1 tvg-id="4238" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4238.jpg" group-title="TV Classics",24/7 SOUTH PARK
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4238
+#EXTINF:-1 tvg-id="4685" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4685.jpg" group-title="TV Classics",24/7 BROOKLYN NINE HD
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=4685
+#EXTINF:-1 tvg-id="473500" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70159.jpg" group-title="TV Classics",24/7 KING OF THE HILL.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473500
+#EXTINF:-1 tvg-id="473570" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 CURB YOUR ENTHUSIASM.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473570
+#EXTINF:-1 tvg-id="473397" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 TWO AND A HALF MEN.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473397
+#EXTINF:-1 tvg-id="473457" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 PRISON BREAK.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473457
+#EXTINF:-1 tvg-id="473579" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 BREAKING BAD.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473579
+#EXTINF:-1 tvg-id="473539" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70198.jpg" group-title="TV Classics",24/7 FRASIER.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473539
+#EXTINF:-1 tvg-id="473409" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="TV Classics",24/7 THE OFFICE.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473409
+#EXTINF:-1 tvg-id="473501" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70160.jpg" group-title="TV Classics",24/7 KEEPING UP WITH THE KARDASHIANS.
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=473501
+#EXTINF:-1 tvg-id="476985" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73698.jpg" group-title="TV Classics",24/7  HOW I MET YOUR MOTHER
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=476985
+#EXTINF:-1 tvg-id="476987" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73700.jpg" group-title="TV Classics",24/7  NEW ADVENTURES OF OLD CHRISTINE
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=476987
