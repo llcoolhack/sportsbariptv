@@ -25,6 +25,8 @@ https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/ind
 https://i.mjh.nz/.r/gem-qld.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="7Brisbane.au" tvg-name="Seven" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Seven-Network-Logo-1536x864.png" group-title="Australia",Seven
 https://i.mjh.nz/.r/seven-bri.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="7TWOBrisbane.au" tvg-name="Seven Two" tvg-logo="https://i.mjh.nz/.images/auto-7two-bri-701123.png" group-title="Australia",Seven Two
+https://i.mjh.nz/.r/7two-bri.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="7mateBrisbane.au" tvg-name="Seven Mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" group-title="Australia",Seven Mate
 https://i.mjh.nz/.r/7mate-bri.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="ABCBrisbane.au" tvg-name="ABC TV" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/7006.png" group-title="Australia",SBS
