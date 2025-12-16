@@ -37,15 +37,15 @@ https://c.mjh.nz/abc-qld.m3u8
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Australia",Fox League
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=7022
-#EXTINF:-1 tvg-id="799" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/799.png" group-title="Australia",Fox Sports 503
+#EXTINF:-1 tvg-id="799" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 503
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25031.ts
 #EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Australia",Fox Footy
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=800
-#EXTINF:-1 tvg-id="801" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/801.png" group-title="Australia",Fox Sports 505
+#EXTINF:-1 tvg-id="801" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 505
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25033.ts
-#EXTINF:-1 tvg-id="802" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/802.png" group-title="Australia",Fox Sports 506
+#EXTINF:-1 tvg-id="802" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 506
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25034.ts
-#EXTINF:-1 tvg-id="803" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/803.png" group-title="Australia",Fox Sports 507
+#EXTINF:-1 tvg-id="803" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 507
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25035.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Australia",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
