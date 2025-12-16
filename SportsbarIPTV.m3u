@@ -37,8 +37,16 @@ https://c.mjh.nz/abc-qld.m3u8
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Australia",Fox League
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=7022
+#EXTINF:-1 tvg-id="799" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/799.png" group-title="Australia",Fox Sports 503
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=799
 #EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Australia",Fox Footy
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=800
+#EXTINF:-1 tvg-id="801" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/801.png" group-title="Australia",Fox Sports 505
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=801
+#EXTINF:-1 tvg-id="802" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/802.png" group-title="Australia",Fox Sports 506
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=802
+#EXTINF:-1 tvg-id="803" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/803.png" group-title="Australia",Fox Sports 507
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=803
 #EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Australia",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ESPN.au" tvg-name="ESPN" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Australia",ESPN
@@ -249,11 +257,11 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=473103
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473104
 #EXTINF:-1 tvg-chno="119" tvg-id="STAN_SPORTS_30" tvg-name="STAN SPORTS 30" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69767.png" group-title="Stan Sport",STAN SPORTS 30
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473105
-#EXTINF:-1 tvg-id="472584" group-title="ESPN+",ESPN+1
+#EXTINF:-1 tvg-id="ESPN+1.v3" group-title="ESPN+",ESPN+1
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472584
-#EXTINF:-1 tvg-id="472585" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69247.png" group-title="ESPN+",ESPN+2
+#EXTINF:-1 tvg-id="ESPN+2.v3" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69247.png" group-title="ESPN+",ESPN+2
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472585
-#EXTINF:-1 tvg-id="472586" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69248.png" group-title="ESPN+",ESPN+3
+#EXTINF:-1 tvg-id="ESPN+3.v3" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69248.png" group-title="ESPN+",ESPN+3
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472586
 #EXTINF:-1 tvg-id="472587" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69249.png" group-title="ESPN+",ESPN+4
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472587
