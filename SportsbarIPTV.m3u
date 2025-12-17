@@ -10,7 +10,7 @@ http://84.17.40.25/TNT/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="FOX35Orlando.us" tvg-name="FOX" tvg-logo="https://img.zuzz.tv/assets/channels/qvaWX6mlwH0ZtIN66wd9qnN5DaLIMw6IeRjGrQaViGNjZIVcsI.png" group-title="US FTA",FOX
 https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://img.zuzz.tv/assets/channels/8xATOcQY2eBC8e4MoBuYkunNjerUuTIf8kIQck1kxz7nqFAZXC.png" group-title="US FTA",TBS
-http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/5790.ts
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=1790
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
 http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 1
@@ -90,7 +90,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3771
 #EXTINF:-1 tvg-chno="39" tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="https://img.zuzz.tv/assets/channels/IWeXhdnKlWTNNugPeZLYDuEAhB60dTmvTcVOKk0RJoupzRYyWA.png" group-title="US Sport",YES Network
 https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://img.zuzz.tv/assets/channels/35h2LeGaAVnL64dYxnCy8zspXR8zeDdsVSdGXt1n07HMlBCSDp.png" group-title="US Sport",NBC Sports Bay Area
-http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/6285.ts
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3281
 #EXTINF:-1 tvg-chno="41" tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://img.zuzz.tv/assets/channels/b6MjsvM3qfQY4CZV1LVJWwFt1mVVoj3iX7gmPTH7MiP8rFWFAk.png" group-title="US Sport",NBC Sports Boston
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3282
 #EXTINF:-1 tvg-chno="42" tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://img.zuzz.tv/assets/channels/lHugi0zpPJ11U35NJGjURfOTDd2q6sunKjwinL4CKeFHMEhtwg.png" group-title="US Sport",NBC Sports California
@@ -101,6 +101,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3284
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1968
 #EXTINF:-1 tvg-chno="45" tvg-id="NESN4K.us" tvg-name="NESN" tvg-logo="https://img.zuzz.tv/assets/channels/pNcr1AgqdNw9MAjXJeWzOgxwUx3XJ7CdLZs2BGThVwk3LR4C4a.png" group-title="US Sport",NESN
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/5556.ts
+#EXTINF:-1 tvg-id="6714" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_common_production%2F08bd6bfd645437fd56a3edbdac4657c23312af6a-4882x4868.png&w=640&q=100" group-title="US Sport",FANDUEL SPORTS DETROIT 4K
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=6714
 #EXTINF:-1 tvg-chno="46" tvg-id="FanDuelRacing.us" tvg-name="Fanduel Sports Network" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_common_production%2F08bd6bfd645437fd56a3edbdac4657c23312af6a-4882x4868.png&w=640&q=100" group-title="US Sport",Fanduel Sports Network
 https://fl31.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="NBALeaguePass1.us" tvg-name="League Pass 1" tvg-logo="https://img.zuzz.tv/assets/channels/nQWkxr73TBBJoByDoKwirX90t4efemvAVwYF15PM9Xt7uD8pk2.png" group-title="NBA",League Pass 1
@@ -558,17 +560,7 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=472732
 #EXTINF:-1 tvg-id="472733" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69395.png" group-title="ESPN+",ESPN+150
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=472733
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="UFC",UFC 01
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=475230
-#EXTINF:-1 tvg-id="480240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="UFC",UFC 02
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=480240
-#EXTINF:-1 tvg-id="475232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="UFC",UFC 03
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=475232
-#EXTINF:-1 tvg-id="475233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="UFC",UFC 04
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=475233
-#EXTINF:-1 tvg-id="474191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="UFC",UFC 05
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=474191
-#EXTINF:-1 tvg-id="474190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="UFC",UFC 06
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=474190
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
 #EXTINF:-1 tvg-id="473724" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bluey_%28TV_series%29_logo.svg/2560px-Bluey_%28TV_series%29_logo.svg.png" group-title="Kids",BLUEY.
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=473724
 #EXTINF:-1 tvg-id="4000" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Peppa2025.svg/revision/latest?cb=20250814151032" group-title="Kids",PEPPA PIG
