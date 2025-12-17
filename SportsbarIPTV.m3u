@@ -10,7 +10,7 @@ http://84.17.40.25/TNT/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="FOX35Orlando.us" tvg-name="FOX" tvg-logo="https://img.zuzz.tv/assets/channels/qvaWX6mlwH0ZtIN66wd9qnN5DaLIMw6IeRjGrQaViGNjZIVcsI.png" group-title="US FTA",FOX
 https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://img.zuzz.tv/assets/channels/8xATOcQY2eBC8e4MoBuYkunNjerUuTIf8kIQck1kxz7nqFAZXC.png" group-title="US FTA",TBS
-https://fl31.moveonjoy.com/TBS/index.m3u8
+http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/5790.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
 http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 1
