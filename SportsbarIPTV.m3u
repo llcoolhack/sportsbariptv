@@ -199,32 +199,34 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=1048
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=1049
 #EXTINF:-1 tvg-chno="64" tvg-id="League_Pass_15" tvg-name="League Pass 15" tvg-logo="https://img.zuzz.tv/assets/channels/nQWkxr73TBBJoByDoKwirX90t4efemvAVwYF15PM9Xt7uD8pk2.png" group-title="NBA",League Pass 15
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=1050
-#EXTINF:-1 tvg-chno="71" tvg-id="1056" tvg-name="NFL 1" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1056.png" group-title="NFL",NFL 1
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=771
-#EXTINF:-1 tvg-chno="72" tvg-id="1057" tvg-name="NFL 2" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1057.png" group-title="NFL",NFL 2
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1057
-#EXTINF:-1 tvg-chno="73" tvg-id="1058" tvg-name="NFL 3" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1058.png" group-title="NFL",NFL 3
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1058
-#EXTINF:-1 tvg-chno="74" tvg-id="1059" tvg-name="NFL 4" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1059.png" group-title="NFL",NFL 4
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1059
-#EXTINF:-1 tvg-chno="75" tvg-id="1060" tvg-name="NFL 5" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1060.png" group-title="NFL",NFL 5
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1060
-#EXTINF:-1 tvg-chno="76" tvg-id="1061" tvg-name="NFL 6" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1061.png" group-title="NFL",NFL 6
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1061
-#EXTINF:-1 tvg-chno="77" tvg-id="1062" tvg-name="NFL 7" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="NFL",NFL 7
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1062
-#EXTINF:-1 tvg-chno="78" tvg-id="1063" tvg-name="NFL 8" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1063.png" group-title="NFL",NFL 8
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1063
-#EXTINF:-1 tvg-chno="79" tvg-id="1064" tvg-name="NFL 9" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1064.png" group-title="NFL",NFL 9
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1064
-#EXTINF:-1 tvg-chno="80" tvg-id="1065" tvg-name="NFL 10" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1065.png" group-title="NFL",NFL 10
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1065
-#EXTINF:-1 tvg-chno="81" tvg-id="1066" tvg-name="NFL 11" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1066.png" group-title="NFL",NFL 11
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1066
-#EXTINF:-1 tvg-chno="82" tvg-id="1067" tvg-name="NFL 12" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1067.png" group-title="NFL",NFL 12
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1067
-#EXTINF:-1 tvg-chno="83" tvg-id="1068" tvg-name="NFL 13" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1068.png" group-title="NFL",NFL 13
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1068
+#EXTINF:-1 tvg-chno="71" tvg-id="1056" tvg-name="Rams @ Seahawks" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1056.png" group-title="NFL",Rams @ Seahawks
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3319
+#EXTINF:-1 tvg-chno="71" tvg-id="1056" tvg-name="49ers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1056.png" group-title="NFL",49ers
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3291
+#EXTINF:-1 tvg-chno="72" tvg-id="1057" tvg-name="Bears" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1057.png" group-title="NFL",Bears
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3292
+#EXTINF:-1 tvg-chno="73" tvg-id="1058" tvg-name="Bengals" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1058.png" group-title="NFL",Bengals
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3293
+#EXTINF:-1 tvg-chno="74" tvg-id="1059" tvg-name="Bills" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1059.png" group-title="NFL",Bills
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3294
+#EXTINF:-1 tvg-chno="75" tvg-id="1060" tvg-name="Broncos" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1060.png" group-title="NFL",Broncos
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3295
+#EXTINF:-1 tvg-chno="76" tvg-id="1061" tvg-name="Browns" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1061.png" group-title="NFL",Browns
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3296
+#EXTINF:-1 tvg-chno="77" tvg-id="1062" tvg-name="Buccaneers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1062.png" group-title="NFL",Buccaneers
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3297
+#EXTINF:-1 tvg-chno="78" tvg-id="1063" tvg-name="Cards" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1063.png" group-title="NFL",Cardinals
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3299
+#EXTINF:-1 tvg-chno="79" tvg-id="1064" tvg-name="Chargers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1064.png" group-title="NFL",Chargers
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3300
+#EXTINF:-1 tvg-chno="80" tvg-id="1065" tvg-name="Chiefs" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1065.png" group-title="NFL",Chiefs
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3301
+#EXTINF:-1 tvg-chno="81" tvg-id="1066" tvg-name="Colts" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1066.png" group-title="NFL",Colts
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3302
+#EXTINF:-1 tvg-chno="82" tvg-id="1067" tvg-name="Cowboys" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1067.png" group-title="NFL",Cowboys
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3303
+#EXTINF:-1 tvg-chno="83" tvg-id="1068" tvg-name="Dolphins" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1068.png" group-title="NFL",Dolphins
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3304
 #EXTINF:-1 tvg-chno="84" tvg-id="1069" tvg-name="NFL 14" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1069.png" group-title="NFL",NFL 14
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=1069
 #EXTINF:-1 tvg-chno="85" tvg-id="1070" tvg-name="NFL 15" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1070.png" group-title="NFL",NFL 15
