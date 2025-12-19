@@ -227,14 +227,44 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3302
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3303
 #EXTINF:-1 tvg-chno="83" tvg-id="1068" tvg-name="Dolphins" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1068.png" group-title="NFL",Dolphins
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3304
-#EXTINF:-1 tvg-chno="84" tvg-id="1069" tvg-name="NFL 14" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1069.png" group-title="NFL",NFL 14
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1069
-#EXTINF:-1 tvg-chno="85" tvg-id="1070" tvg-name="NFL 15" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1070.png" group-title="NFL",NFL 15
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=1070
-#EXTINF:-1 tvg-chno="86" tvg-id="473124" tvg-name="NFL 16" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69786.png" group-title="NFL",NFL 16
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=473124
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="NFL 17" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",NFL 17
-http://19n0v-rkdyiptv.wasmer.app/play.php?id=473117
+#EXTINF:-1 tvg-chno="84" tvg-id="1069" tvg-name="Eagles" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1069.png" group-title="NFL",Eagles
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3305
+#EXTINF:-1 tvg-chno="85" tvg-id="1070" tvg-name="Falcons" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1070.png" group-title="NFL",Falcons
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3306
+#EXTINF:-1 tvg-chno="86" tvg-id="473124" tvg-name="Giants" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69786.png" group-title="NFL",Giants
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3307
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Jaguars" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Jaguars
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3308
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Jets" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Jets
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3309
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Lions" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Lions
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3310
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Packers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Packers
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3311
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Panthers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Panthers
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3312
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Patriots" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Patriots
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3313
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Raiders" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Raiders
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3314
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Rams" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Rams
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3315
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Ravens" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Ravens
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3316
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Commanders" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Commanders
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3317
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Saints" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Saints
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3318
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Seahawks" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Seahawks
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3319
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Steelers" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Steelers
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3320
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Texans" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Texans
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3321
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Titans" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Titans
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3322
+#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Vikings" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/69779.png" group-title="NFL",Vikings
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3323
 #EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="NHL 1" tvg-logo="https://img.zuzz.tv/assets/channels/fmmBmmJBXkKtQQPtny0LyE8eS3AIU6yY5mroBTv0Q6SLuriMQy.png" group-title="NHL" parent-code="NHL",NHL 1
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=930
 #EXTINF:-1 tvg-id="NHLCenterIce770.us" tvg-name="NHL 2" tvg-logo="https://img.zuzz.tv/assets/channels/fmmBmmJBXkKtQQPtny0LyE8eS3AIU6yY5mroBTv0Q6SLuriMQy.png" group-title="NHL" parent-code="NHL",NHL 2
