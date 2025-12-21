@@ -199,69 +199,69 @@ http://19n0v-rkdyiptv.wasmer.app/play.php?id=1048
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=1049
 #EXTINF:-1 tvg-chno="64" tvg-id="League_Pass_15" tvg-name="League Pass 15" tvg-logo="https://img.zuzz.tv/assets/channels/nQWkxr73TBBJoByDoKwirX90t4efemvAVwYF15PM9Xt7uD8pk2.png" group-title="NBA",League Pass 15
 http://19n0v-rkdyiptv.wasmer.app/play.php?id=1050
-#EXTINF:-1 tvg-chno="71" tvg-id="1056" tvg-name="49ers" tvg-logo="https://img.zuzz.tv//logos/teams/San%20Francisco%2049ers.png" group-title="NFL",49ers
+#EXTINF:-1 tvg-chno="71" tvg-id="NFL_SF" tvg-name="49ers" tvg-logo="https://img.zuzz.tv//logos/teams/San%20Francisco%2049ers.png" group-title="NFL",49ers
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3291
-#EXTINF:-1 tvg-chno="72" tvg-id="1057" tvg-name="Bears" tvg-logo="https://img.zuzz.tv//logos/teams/Chicago%20Bears.png" group-title="NFL",Bears
+#EXTINF:-1 tvg-chno="72" tvg-id="NFL_CHI" tvg-name="Bears" tvg-logo="https://img.zuzz.tv//logos/teams/Chicago%20Bears.png" group-title="NFL",Bears
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3292
-#EXTINF:-1 tvg-chno="73" tvg-id="1058" tvg-name="Bengals" tvg-logo="https://img.zuzz.tv//logos/teams/Cincinnati%20Bengals.png" group-title="NFL",Bengals
+#EXTINF:-1 tvg-chno="73" tvg-id="NFL_CIN" tvg-name="Bengals" tvg-logo="https://img.zuzz.tv//logos/teams/Cincinnati%20Bengals.png" group-title="NFL",Bengals
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3293
-#EXTINF:-1 tvg-chno="74" tvg-id="1059" tvg-name="Bills" tvg-logo="https://img.zuzz.tv//logos/teams/Buffalo%20Bills.png" group-title="NFL",Bills
+#EXTINF:-1 tvg-chno="74" tvg-id="NFL_BUF" tvg-name="Bills" tvg-logo="https://img.zuzz.tv//logos/teams/Buffalo%20Bills.png" group-title="NFL",Bills
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3294
-#EXTINF:-1 tvg-chno="75" tvg-id="1060" tvg-name="Broncos" tvg-logo="https://img.zuzz.tv//logos/teams/Denver%20Broncos.png" group-title="NFL",Broncos
+#EXTINF:-1 tvg-chno="75" tvg-id="NFL_DEN" tvg-name="Broncos" tvg-logo="https://img.zuzz.tv//logos/teams/Denver%20Broncos.png" group-title="NFL",Broncos
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3295
-#EXTINF:-1 tvg-chno="76" tvg-id="1061" tvg-name="Browns" tvg-logo="https://img.zuzz.tv//logos/teams/Cleveland%20Browns.png" group-title="NFL",Browns
+#EXTINF:-1 tvg-chno="76" tvg-id="NFL_CLE" tvg-name="Browns" tvg-logo="https://img.zuzz.tv//logos/teams/Cleveland%20Browns.png" group-title="NFL",Browns
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3296
-#EXTINF:-1 tvg-chno="77" tvg-id="1062" tvg-name="Buccaneers" tvg-logo="https://img.zuzz.tv//logos/teams/Tampa%20Bay%20Buccaneers.png" group-title="NFL",Buccaneers
+#EXTINF:-1 tvg-chno="77" tvg-id="NFL_TB" tvg-name="Buccaneers" tvg-logo="https://img.zuzz.tv//logos/teams/Tampa%20Bay%20Buccaneers.png" group-title="NFL",Buccaneers
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3297
-#EXTINF:-1 tvg-chno="78" tvg-id="1063" tvg-name="Cards" tvg-logo="https://img.zuzz.tv//logos/teams/Arizona%20Cardinals.png" group-title="NFL",Cardinals
+#EXTINF:-1 tvg-chno="78" tvg-id="NFL_ARI" tvg-name="Cards" tvg-logo="https://img.zuzz.tv//logos/teams/Arizona%20Cardinals.png" group-title="NFL",Cardinals
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3299
-#EXTINF:-1 tvg-chno="79" tvg-id="1064" tvg-name="Chargers" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Chargers.png" group-title="NFL",Chargers
+#EXTINF:-1 tvg-chno="79" tvg-id="NFL_LAC" tvg-name="Chargers" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Chargers.png" group-title="NFL",Chargers
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3300
-#EXTINF:-1 tvg-chno="80" tvg-id="1065" tvg-name="Chiefs" tvg-logo="https://img.zuzz.tv//logos/teams/Kansas%20City%20Chiefs.png" group-title="NFL",Chiefs
+#EXTINF:-1 tvg-chno="80" tvg-id="NFL_KC" tvg-name="Chiefs" tvg-logo="https://img.zuzz.tv//logos/teams/Kansas%20City%20Chiefs.png" group-title="NFL",Chiefs
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3301
-#EXTINF:-1 tvg-chno="81" tvg-id="1066" tvg-name="Colts" tvg-logo="https://img.zuzz.tv//logos/teams/Indianapolis%20Colts.png" group-title="NFL",Colts
+#EXTINF:-1 tvg-chno="81" tvg-id="NFL_IND" tvg-name="Colts" tvg-logo="https://img.zuzz.tv//logos/teams/Indianapolis%20Colts.png" group-title="NFL",Colts
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3302
-#EXTINF:-1 tvg-chno="82" tvg-id="1067" tvg-name="Cowboys" tvg-logo="https://img.zuzz.tv//logos/teams/Dallas%20Cowboys.png" group-title="NFL",Cowboys
+#EXTINF:-1 tvg-chno="82" tvg-id="NFL_DAL" tvg-name="Cowboys" tvg-logo="https://img.zuzz.tv//logos/teams/Dallas%20Cowboys.png" group-title="NFL",Cowboys
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3303
-#EXTINF:-1 tvg-chno="83" tvg-id="1068" tvg-name="Dolphins" tvg-logo="https://img.zuzz.tv//logos/teams/Miami%20Dolphins.png" group-title="NFL",Dolphins
+#EXTINF:-1 tvg-chno="83" tvg-id="NFL_MIA" tvg-name="Dolphins" tvg-logo="https://img.zuzz.tv//logos/teams/Miami%20Dolphins.png" group-title="NFL",Dolphins
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3304
-#EXTINF:-1 tvg-chno="84" tvg-id="1069" tvg-name="Eagles" tvg-logo="https://img.zuzz.tv//logos/teams/Philadelphia%20Eagles.png" group-title="NFL",Eagles
+#EXTINF:-1 tvg-chno="84" tvg-id="NFL_PHI" tvg-name="Eagles" tvg-logo="https://img.zuzz.tv//logos/teams/Philadelphia%20Eagles.png" group-title="NFL",Eagles
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3305
-#EXTINF:-1 tvg-chno="85" tvg-id="1070" tvg-name="Falcons" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Falcons.png" group-title="NFL",Falcons
+#EXTINF:-1 tvg-chno="85" tvg-id="NFL_ATL" tvg-name="Falcons" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Falcons.png" group-title="NFL",Falcons
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3306
-#EXTINF:-1 tvg-chno="86" tvg-id="473124" tvg-name="Giants" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Giants.png" group-title="NFL",Giants
+#EXTINF:-1 tvg-chno="86" tvg-id="NFL_NYG" tvg-name="Giants" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Giants.png" group-title="NFL",Giants
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3307
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Jaguars" tvg-logo="https://img.zuzz.tv//logos/teams/Jacksonville%20Jaguars.png" group-title="NFL",Jaguars
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_JAX" tvg-name="Jaguars" tvg-logo="https://img.zuzz.tv//logos/teams/Jacksonville%20Jaguars.png" group-title="NFL",Jaguars
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3308
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Jets" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Jets.png" group-title="NFL",Jets
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_NYJ" tvg-name="Jets" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Jets.png" group-title="NFL",Jets
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3309
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Lions" tvg-logo="https://img.zuzz.tv//logos/teams/Detroit%20Lions.png" group-title="NFL",Lions
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_DET" tvg-name="Lions" tvg-logo="https://img.zuzz.tv//logos/teams/Detroit%20Lions.png" group-title="NFL",Lions
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3310
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Packers" tvg-logo="https://img.zuzz.tv//logos/teams/Green%20Bay%20Packers.png" group-title="NFL",Packers
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_GB" tvg-name="Packers" tvg-logo="https://img.zuzz.tv//logos/teams/Green%20Bay%20Packers.png" group-title="NFL",Packers
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3311
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Panthers" tvg-logo="https://img.zuzz.tv//logos/teams/Carolina%20Panthers.png" group-title="NFL",Panthers
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_CAR" tvg-name="Panthers" tvg-logo="https://img.zuzz.tv//logos/teams/Carolina%20Panthers.png" group-title="NFL",Panthers
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3312
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Patriots" tvg-logo="https://img.zuzz.tv//logos/teams/New%20England%20Patriots.png" group-title="NFL",Patriots
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_NE" tvg-name="Patriots" tvg-logo="https://img.zuzz.tv//logos/teams/New%20England%20Patriots.png" group-title="NFL",Patriots
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3313
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Raiders" tvg-logo="https://img.zuzz.tv//logos/teams/Las%20Vegas%20Raiders.png" group-title="NFL",Raiders
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_LV" tvg-name="Raiders" tvg-logo="https://img.zuzz.tv//logos/teams/Las%20Vegas%20Raiders.png" group-title="NFL",Raiders
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3314
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Rams" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Rams.png" group-title="NFL",Rams
+#EXTINF:-1 tvg-chno="87" tvg-id="LAR" tvg-name="Rams" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Rams.png" group-title="NFL",Rams
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3315
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Ravens" tvg-logo="https://img.zuzz.tv//logos/teams/Baltimore%20Ravens.png" group-title="NFL",Ravens
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_BAL" tvg-name="Ravens" tvg-logo="https://img.zuzz.tv//logos/teams/Baltimore%20Ravens.png" group-title="NFL",Ravens
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3316
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Commanders" tvg-logo="https://img.zuzz.tv//logos/teams/Washington%20Commanders.png" group-title="NFL",Commanders
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_WSH" tvg-name="Commanders" tvg-logo="https://img.zuzz.tv//logos/teams/Washington%20Commanders.png" group-title="NFL",Commanders
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3317
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Saints" tvg-logo="https://img.zuzz.tv//logos/teams/New%20Orleans%20Saints.png" group-title="NFL",Saints
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_NO" tvg-name="Saints" tvg-logo="https://img.zuzz.tv//logos/teams/New%20Orleans%20Saints.png" group-title="NFL",Saints
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3318
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Seahawks" tvg-logo="https://img.zuzz.tv//logos/teams/Seattle%20Seahawks.png" group-title="NFL",Seahawks
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_SEA" tvg-name="Seahawks" tvg-logo="https://img.zuzz.tv//logos/teams/Seattle%20Seahawks.png" group-title="NFL",Seahawks
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3319
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Steelers" tvg-logo="https://img.zuzz.tv//logos/teams/Pittsburgh%20Steelers.png" group-title="NFL",Steelers
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_PIT" tvg-name="Steelers" tvg-logo="https://img.zuzz.tv//logos/teams/Pittsburgh%20Steelers.png" group-title="NFL",Steelers
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3320
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Texans" tvg-logo="https://img.zuzz.tv//logos/teams/Houston%20Texans.png" group-title="NFL",Texans
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_HOU" tvg-name="Texans" tvg-logo="https://img.zuzz.tv//logos/teams/Houston%20Texans.png" group-title="NFL",Texans
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3321
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Titans" tvg-logo="https://img.zuzz.tv//logos/teams/Tennessee%20Titans.png" group-title="NFL",Titans
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_TEN" tvg-name="Titans" tvg-logo="https://img.zuzz.tv//logos/teams/Tennessee%20Titans.png" group-title="NFL",Titans
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3322
-#EXTINF:-1 tvg-chno="87" tvg-id="473117" tvg-name="Vikings" tvg-logo="https://img.zuzz.tv//logos/teams/Minnesota%20Vikings.png" group-title="NFL",Vikings
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL_MIN" tvg-name="Vikings" tvg-logo="https://img.zuzz.tv//logos/teams/Minnesota%20Vikings.png" group-title="NFL",Vikings
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3323
 #EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Flames" tvg-logo="https://img.zuzz.tv//logos/teams/Calgary%20Flames.png" group-title="NHL" parent-code="NHL",Calgary Flames
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2970
