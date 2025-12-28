@@ -115,7 +115,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=2408
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2402
 #EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/MrRZ4nMuezzMaDtTG5njMtfU1yWtZ66NnDedPO4bRZPeAlveQr.png" group-title="Sport",TSN 2
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2403
-#EXTINF:-1 tvg-id="1223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2560px-WWE_official_logo.svg.png" group-title="US Sport",WWE HD
+#EXTINF:-1 tvg-id="1223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2560px-WWE_official_logo.svg.png" group-title="Sport",WWE HD
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1223
 #EXTINF:-1 tvg-id="NBA_ATL" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Hawks.png" group-title="NBA",Atlanta Hawks
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2622
