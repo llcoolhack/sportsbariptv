@@ -241,7 +241,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3321
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3322
 #EXTINF:-1 tvg-chno="87" tvg-id="NFL_MIN" tvg-name="Vikings" tvg-logo="https://img.zuzz.tv//logos/teams/Minnesota%20Vikings.png" group-title="NFL",Vikings
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3323
-#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Bruins" tvg-logo="https://img.zuzz.tv//logos/teams/Calgary%20Flames.png" group-title="NHL" parent-code="NHL",Boston Bruins
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Bruins" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Bruins.png" group-title="NHL" parent-code="NHL",Boston Bruins
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2968
 #EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Flames" tvg-logo="https://img.zuzz.tv//logos/teams/Calgary%20Flames.png" group-title="NHL" parent-code="NHL",Calgary Flames
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2970
