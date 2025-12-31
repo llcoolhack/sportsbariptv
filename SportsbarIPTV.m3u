@@ -85,7 +85,7 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://fl7.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="MSGNational.us" tvg-name="MSGHD" tvg-logo="https://img.zuzz.tv/assets/channels/uTIfEcLMqxJjXaVZaGqCLBWaJCN6ML7saYVypSeCMAoVqNoNUe.png" group-title="Sport",MSGHD
 https://fl2.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="MSGNational.us" tvg-name="MSG2" tvg-logo="https://img.zuzz.tv/assets/channels/uTIfEcLMqxJjXaVZaGqCLBWaJCN6ML7saYVypSeCMAoVqNoNUe.png" group-title="Sport",MSG2
+#EXTINF:-1 tvg-chno="37" tvg-id="MSG2.us" tvg-name="MSG2" tvg-logo="https://img.zuzz.tv/assets/channels/uTIfEcLMqxJjXaVZaGqCLBWaJCN6ML7saYVypSeCMAoVqNoNUe.png" group-title="Sport",MSG2
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3769
 #EXTINF:-1 tvg-chno="38" tvg-id="MSGSportsnet2.us" tvg-name="MSG Sportsnet" tvg-logo="https://img.zuzz.tv/assets/channels/uTIfEcLMqxJjXaVZaGqCLBWaJCN6ML7saYVypSeCMAoVqNoNUe.png" group-title="Sport",MSG Sportsnet
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3771
@@ -109,11 +109,11 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=6714
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2407
 #EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/6RuLHjfUbnLRqOTuwepYsaGveKflL1gWopzlB1mFk3DdLxscVa.png" group-title="Sport",Sportsnet West
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2962
-#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/6RuLHjfUbnLRqOTuwepYsaGveKflL1gWopzlB1mFk3DdLxscVa.png" group-title="Sport",Sportsnet East
+#EXTINF:-1 tvg-id="Sportsnet(East)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/6RuLHjfUbnLRqOTuwepYsaGveKflL1gWopzlB1mFk3DdLxscVa.png" group-title="Sport",Sportsnet East
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2408
-#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/tQS7GnEAURnhchSfRoICM80sNF3w6cz1Oy1kERQINgnbPF5a6o.png" group-title="Sport",TSN 1
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/tQS7GnEAURnhchSfRoICM80sNF3w6cz1Oy1kERQINgnbPF5a6o.png" group-title="Sport",TSN 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2402
-#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/MrRZ4nMuezzMaDtTG5njMtfU1yWtZ66NnDedPO4bRZPeAlveQr.png" group-title="Sport",TSN 2
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/MrRZ4nMuezzMaDtTG5njMtfU1yWtZ66NnDedPO4bRZPeAlveQr.png" group-title="Sport",TSN 2
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2403
 #EXTINF:-1 tvg-id="1223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2560px-WWE_official_logo.svg.png" group-title="Sport",WWE HD
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1223
