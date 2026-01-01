@@ -13,41 +13,41 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1790
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
 http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA FTA",A&E
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="US FTA",A&E
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417871
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA FTA",AMC
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="US FTA",AMC
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417872
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: ANIMAL PLANET" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="USA FTA",ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: ANIMAL PLANET" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="US FTA",ANIMAL PLANET
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
-#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="US: ASPIRE" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="USA FTA",ASPIRE
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="US: ASPIRE" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="US FTA",ASPIRE
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417874
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="USA FTA",BRAVO
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="US FTA",BRAVO
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417880
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: COMEDY CENTRAL" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="USA FTA",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: COMEDY CENTRAL" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="US FTA",COMEDY CENTRAL
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417882
-#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="US: CW" tvg-logo="https://iconape.com/wp-content/png_logo_vector/the-cw.png" group-title="USA FTA",CW
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="US: CW" tvg-logo="https://iconape.com/wp-content/png_logo_vector/the-cw.png" group-title="US FTA",CW
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/676378
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png" group-title="USA FTA",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png" group-title="US FTA",DISCOVERY CHANNEL
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
-#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX" tvg-logo="https://i.ibb.co/c3Hhwxr/fx.png" group-title="USA FTA",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX" tvg-logo="https://i.ibb.co/c3Hhwxr/fx.png" group-title="US FTA",FX
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417888
-#EXTINF:-1 tvg-id="History.us" tvg-name="US: HISTORY" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="USA FTA",HISTORY
+#EXTINF:-1 tvg-id="History.us" tvg-name="US: HISTORY" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="US FTA",HISTORY
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417998
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="USA FTA",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="US FTA",MTV
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417898
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US: NAT GEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="USA FTA",NAT GEO WILD
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US: NAT GEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="US FTA",NAT GEO WILD
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418005
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="USA FTA",NATIONAL GEOGRAPHIC CHANNEL
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="US FTA",NATIONAL GEOGRAPHIC CHANNEL
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
-#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="USA FTA",OXYGEN
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="US FTA",OXYGEN
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417901
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US: PARAMOUNT" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="USA FTA",PARAMOUNT
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US: PARAMOUNT" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="US FTA",PARAMOUNT
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417902
-#EXTINF:-1 tvg-id="PBSWNET.us" tvg-name="US: PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="USA FTA",PBS
+#EXTINF:-1 tvg-id="PBSWNET.us" tvg-name="US: PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="US FTA",PBS
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/683405
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="USA FTA",SYFY
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="US FTA",SYFY
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417911
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="USA FTA",TRU TV
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="US FTA",TRU TV
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417917
 #EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 1
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
