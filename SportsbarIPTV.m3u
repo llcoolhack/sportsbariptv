@@ -13,6 +13,42 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1790
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
 http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="USA FTA",A&E
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417871
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA FTA",AMC
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417872
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: ANIMAL PLANET" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="USA FTA",ANIMAL PLANET
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="US: ASPIRE" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="USA FTA",ASPIRE
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417874
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="USA FTA",BRAVO
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417880
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: COMEDY CENTRAL" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="USA FTA",COMEDY CENTRAL
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417882
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="US: CW" tvg-logo="https://iconape.com/wp-content/png_logo_vector/the-cw.png" group-title="USA FTA",CW
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/676378
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png" group-title="USA FTA",DISCOVERY CHANNEL
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX" tvg-logo="https://i.ibb.co/c3Hhwxr/fx.png" group-title="USA FTA",FX
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417888
+#EXTINF:-1 tvg-id="History.us" tvg-name="US: HISTORY" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="USA FTA",HISTORY
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417998
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="USA FTA",MTV
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417898
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US: NAT GEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="USA FTA",NAT GEO WILD
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418005
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="USA FTA",NATIONAL GEOGRAPHIC CHANNEL
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="USA FTA",OXYGEN
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417901
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US: PARAMOUNT" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="USA FTA",PARAMOUNT
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417902
+#EXTINF:-1 tvg-id="PBSWNET.us" tvg-name="US: PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="USA FTA",PBS
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/683405
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="USA FTA",SYFY
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417911
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="USA FTA",TRU TV
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417917
 #EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 1
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 2
@@ -101,6 +137,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3283
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3284
 #EXTINF:-1 tvg-chno="44" tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="Sport",NBC Sports Philadelphia
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1968
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="NBC Sports Network" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="Sports",NBC Sports Network
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418183
 #EXTINF:-1 tvg-chno="45" tvg-id="NESN4K.us" tvg-name="NESN" tvg-logo="https://img.zuzz.tv/assets/channels/pNcr1AgqdNw9MAjXJeWzOgxwUx3XJ7CdLZs2BGThVwk3LR4C4a.png" group-title="Sport",NESN
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2968
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroitOutofMarket.us" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_common_production%2F08bd6bfd645437fd56a3edbdac4657c23312af6a-4882x4868.png&w=640&q=100" group-title="Sport",Fan Duel Sports Detroit
@@ -275,30 +313,30 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3685
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 1
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/763351
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 2
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5867
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 3
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5872
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 4
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5876
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 5
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5849
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 6
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5884
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 7
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5881
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 8
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5850
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 9
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5851
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar College Basketball 10
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5854
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 1
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/774966
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 2
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781554
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 3
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781555
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 4
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781556
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 5
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781557
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 6
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781558
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 7
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781559
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 8
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781560
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 9
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781561
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/sportsbarcollegebasketball.png" group-title="Sportsbar",Sportsbar 10
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781562
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 01
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
 #EXTINF:-1 tvg-id="473724" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bluey_%28TV_series%29_logo.svg/2560px-Bluey_%28TV_series%29_logo.svg.png" group-title="Kids",Bluey
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5052
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681865
 #EXTINF:-1 tvg-id="4000" tvg-logo="https://1000logos.net/wp-content/uploads/2023/09/Peppa-Pig-Logo.png" group-title="Kids",Peppa Pig
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=4421
 #EXTINF:-1 tvg-id="3991" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png" group-title="Kids",Paw Patrol
@@ -309,69 +347,69 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=5069
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5078
 #EXTINF:-1 tvg-id="4149" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4149.png" group-title="Kids",Rugrats
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5125
-#EXTINF:-1 tvg-id="4177" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4177.jpg" group-title="24/7 Classics",Arrested Development
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5094
-#EXTINF:-1 tvg-id="4177" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4177.jpg" group-title="24/7 Classics",Seinfeld
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4990
-#EXTINF:-1 tvg-id="473537" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70196.jpg" group-title="24/7 Classics",Friends
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4987
-#EXTINF:-1 tvg-id="473549" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70208.jpg" group-title="24/7 Classics",Everybody Loves Raymond
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5032
-#EXTINF:-1 tvg-id="4288" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4288.jpg" group-title="24/7 Classics",The Simpsons
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5014
-#EXTINF:-1 tvg-id="4371" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4371.jpg" group-title="24/7 Classics",Family Guy
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5060
-#EXTINF:-1 tvg-id="473413" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="24/7 Classics",King of Queens
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5108
-#EXTINF:-1 tvg-id="4238" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4238.jpg" group-title="24/7 Classics",South Park
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4866
-#EXTINF:-1 tvg-id="4685" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4685.jpg" group-title="24/7 Classics",Brooklyn Nine-Nine
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5144
-#EXTINF:-1 tvg-id="473500" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70159.jpg" group-title="24/7 Classics",King of the Hill
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5029
-#EXTINF:-1 tvg-id="473570" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="24/7 Classics",Curb Your Enthusiasm
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5093
-#EXTINF:-1 tvg-id="473397" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="24/7 Classics",Two And A Half Men
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5063
-#EXTINF:-1 tvg-id="473579" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="24/7 Classics",Who's Line Is It Anyway?
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5106
-#EXTINF:-1 tvg-id="473539" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70198.jpg" group-title="24/7 Classics",Fraiser
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4985
-#EXTINF:-1 tvg-id="473409" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="24/7 Classics",The Office
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4977
-#EXTINF:-1 tvg-id="473501" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70160.jpg" group-title="24/7 Classics",Keeping Up With The Kardashians
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4957
-#EXTINF:-1 tvg-id="476985" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73698.jpg" group-title="24/7 Classics",How I Met Your Mother
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5003
-#EXTINF:-1 tvg-id="476987" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73700.jpg" group-title="24/7 Classics", Law & Order SVU
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5103
-#EXTINF:-1 tvg-id="476987" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73700.jpg" group-title="24/7 Classics", Scrubs
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4983
-#EXTINF:-1 tvg-id="476987" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/73700.jpg" group-title="24/7 Classics", NCIS: Los Angeles
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4955
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 1
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e01-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 2
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e02-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 3
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e03-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 4
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e04-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 5
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e05-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 6
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e06-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 7
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e07-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 8
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e08-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 9
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e09-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 10
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e10-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 11
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e11-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-#EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 12
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e12-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
-##EXTINF:-1 tvg-id="476987" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Lawandorder01.png/revision/latest?cb=20190524132855" group-title="Law & Order: SVU - Season 25",Episode 13
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/bufcf19a45/6hRuiyN9Gq_xUctvYc2uyfRIf44xhrAU6ss7yz6wxkqhmfHTXrWl720KvfLLOEYuD9oNV901YLmCG_n5-TxfkJBPfVmYCRg9DTtkdiDlDOeQtp_z23Aepi9VUqN5KmB_EG69L8njcZ2DNPlDZRle1Q/law-and-order-special-victims-unit-s25e13-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=6fkva8&ut=premium&_u=m8r2ydggkf&_t=lrvadu
+#EXTINF:-1 tvg-name="24/7: 24" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d841e10d399b8a839ad433b46ba72c0.jpg" group-title="24/7",24/7: 24
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681767
+#EXTINF:-1 tvg-name="24/7: 30 Rock" tvg-logo="http://onlytimewilltell.xyz:2086/images/077f3163daee0bf8616148fde1b4ecd1.jpg" group-title="24/7",24/7: 30 Rock
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681770
+#EXTINF:-1 tvg-name="24/7: Arthur" tvg-logo="http://onlytimewilltell.xyz:2086/images/7b211144c47424cbd9983f4a3554f9be.jpg" group-title="24/7",24/7: Arthur
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681821
+#EXTINF:-1 tvg-name="24/7: Becker" tvg-logo="http://onlytimewilltell.xyz:2086/images/94970ca167a96a4b9e42c19fac8ff411.jpg" group-title="24/7",24/7: Becker
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681846
+#EXTINF:-1 tvg-name="24/7: Bondi Rescue" tvg-logo="http://onlytimewilltell.xyz:2086/images/3b852a2216a3babd42656b8971224c12.jpg" group-title="24/7",24/7: Bondi Rescue
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681870
+#EXTINF:-1 tvg-name="24/7: Brooklyn Nine-Nine" tvg-logo="http://onlytimewilltell.xyz:2086/images/381728e7d7adca7210707c8014dc7ba9.jpg" group-title="24/7",24/7: Brooklyn Nine-Nine
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681881
+#EXTINF:-1 tvg-name="24/7: Curb Your Enthusiasm" tvg-logo="http://onlytimewilltell.xyz:2086/images/daa6c65316f16a32fdb6bb247509373f.jpg" group-title="24/7",24/7: Curb Your Enthusiasm
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681923
+#EXTINF:-1 tvg-name="24/7: ESPN 30 For 30" tvg-logo="http://onlytimewilltell.xyz:2086/images/67b01d2ed547afcdf32118caf0106d8c.jpg" group-title="24/7",24/7: ESPN 30 For 30
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681983
+#EXTINF:-1 tvg-name="24/7: Everybody Loves Raymond" tvg-logo="http://onlytimewilltell.xyz:2086/images/b6da8d6b223b4310234c466e7e539b2d.jpg" group-title="24/7",24/7: Everybody Loves Raymond
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681985
+#EXTINF:-1 tvg-name="24/7: Family Guy" tvg-logo="http://onlytimewilltell.xyz:2086/images/08524a251f83584f9438f8a52efa9336.jpg" group-title="24/7",24/7: Family Guy
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681990
+#EXTINF:-1 tvg-name="24/7: Formula 1 Drive to Survive" tvg-logo="http://onlytimewilltell.xyz:2086/images/f4193c1d783108fdaf59725af7b1695e.jpg" group-title="24/7",24/7: Formula 1 Drive to Survive
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682009
+#EXTINF:-1 tvg-name="24/7: Frasier" tvg-logo="http://onlytimewilltell.xyz:2086/images/15e416c81c533ed65ce6ce2cb283cb56.jpg" group-title="24/7",24/7: Frasier
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682014
+#EXTINF:-1 tvg-name="24/7: Friends" tvg-logo="http://onlytimewilltell.xyz:2086/images/ae0c2f9ebc4f6ca916a535e9d0672a5f.jpg" group-title="24/7",24/7: Friends
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682019
+#EXTINF:-1 tvg-name="24/7: Futurama" tvg-logo="http://onlytimewilltell.xyz:2086/images/e8043ae8f3d207e05e9b0b1eb8c7a2a3.jpg" group-title="24/7",24/7: Futurama
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682024
+#EXTINF:-1 tvg-name="24/7: How I Met Your Mother" tvg-logo="http://onlytimewilltell.xyz:2086/images/18ee813f73477872707a75f3f71ce74b.jpg" group-title="24/7",24/7: How I Met Your Mother
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682094
+#EXTINF:-1 tvg-name="24/7: King of the Hill" tvg-logo="http://onlytimewilltell.xyz:2086/images/531589a83edc05647868ac1677d27bb3.jpg" group-title="24/7",24/7: King of the Hill
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682138
+#EXTINF:-1 tvg-name="24/7: Law and Order SVU" tvg-logo="http://onlytimewilltell.xyz:2086/images/0e337b9652a30853eaa2655d532142e0.jpg" group-title="24/7",24/7: Law and Order SVU
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682153
+#EXTINF:-1 tvg-name="24/7: Lost" tvg-logo="http://onlytimewilltell.xyz:2086/images/da06c3a52e91ca649976e009c9e42abe.jpg" group-title="24/7",24/7: Lost
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682174
+#EXTINF:-1 tvg-name="24/7: Mad Men" tvg-logo="http://onlytimewilltell.xyz:2086/images/b4d63fc8857a80d0160e77ec17cfef75.jpg" group-title="24/7",24/7: Mad Men
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682182
+#EXTINF:-1 tvg-name="24/7: NCIS Los Angeles" tvg-logo="http://onlytimewilltell.xyz:2086/images/e2cc942a83cdb6fcdf62dd285b37f927.jpg" group-title="24/7",24/7: NCIS Los Angeles
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682253
+#EXTINF:-1 tvg-name="24/7: Parks and Recreation" tvg-logo="http://onlytimewilltell.xyz:2086/images/cf3585e8c6e47f8defe777b0ad45040d.jpg" group-title="24/7",24/7: Parks and Recreation
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682281
+#EXTINF:-1 tvg-name="24/7: Seinfeld" tvg-logo="http://onlytimewilltell.xyz:2086/images/a96060f5b271aec6517c96321566424a.jpg" group-title="24/7",24/7: Seinfeld
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682372
+#EXTINF:-1 tvg-name="24/7: Sex and the City" tvg-logo="http://onlytimewilltell.xyz:2086/images/fa9d7332a2628bbae550bed19dbd2f6c.jpg" group-title="24/7",24/7: Sex and the City
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682375
+#EXTINF:-1 tvg-name="24/7: The King of Queens" tvg-logo="http://onlytimewilltell.xyz:2086/images/8313e5c97f8adf0df50faf4a2c1972ca.jpg" group-title="24/7",24/7: The King of Queens
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682538
+#EXTINF:-1 tvg-name="24/7: The O.C." tvg-logo="http://onlytimewilltell.xyz:2086/images/f1d35521a499c6cc66c0d2f6b920915f.jpg" group-title="24/7",24/7: The O.C.
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682571
+#EXTINF:-1 tvg-name="24/7: The Office US" tvg-logo="http://onlytimewilltell.xyz:2086/images/118d943eb24f35151aef8dcd87eb7659.jpg" group-title="24/7",24/7: The Office US
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682576
+#EXTINF:-1 tvg-name="24/7: The Simpsons" tvg-logo="http://onlytimewilltell.xyz:2086/images/266c7ef0fe4668e2c972736d91de8290.jpg" group-title="24/7",24/7: The Simpsons
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682617
+#EXTINF:-1 tvg-name="24/7: Two and a Half Men" tvg-logo="http://onlytimewilltell.xyz:2086/images/d6409482601b834c08308fbcd16e90bc.jpg" group-title="24/7",24/7: Two and a Half Men
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682674
+#EXTINF:-1 tvg-name="24/7: Underbelly" tvg-logo="http://onlytimewilltell.xyz:2086/images/a141dbc34f40d75b2c91eb27b3e713e2.jpg" group-title="24/7",24/7: Underbelly
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682682
+#EXTINF:-1 tvg-name="24/7: Vanderpump Rules" tvg-logo="http://onlytimewilltell.xyz:2086/images/0b4e1e2bbc42665df3f52e5cef29579b.jpg" group-title="24/7",24/7: Vanderpump Rules
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682694
+#EXTINF:-1 tvg-name="24/7: Veep" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d2d51d988febcaef455c7fc275a302d.jpg" group-title="24/7",24/7: Veep
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682695
+#EXTINF:-1 tvg-name="24/7: Wallace and Gromit" tvg-logo="http://onlytimewilltell.xyz:2086/images/ce702dceca8a972c3ef50ada1cc0627c.jpg" group-title="24/7",24/7: Wallace and Gromit
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682706
+#EXTINF:-1 tvg-name="24/7: Whose Line Is It Anyway USA (1998)" tvg-logo="http://onlytimewilltell.xyz:2086/images/64b1bbe5bb8791a3f03e860097a375e2.jpg" group-title="24/7",24/7: Whose Line Is It Anyway USA (1998)
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/682719
