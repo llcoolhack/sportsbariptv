@@ -89,6 +89,10 @@ https://i.mjh.nz/.r/racing-fast.m3u8
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/759475.ts
 #EXTINF:-1 tvg-chno="14" tvg-id="ESPN2.au" tvg-name="ESPN2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",ESPN2
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/759460.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Australia",SKY Sport 1
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759461
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 2" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Australia",SKY Sport 2
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759462
 #EXTINF:-1 tvg-chno="22" tvg-id="ESPN.us" tvg-name="ESPN (US)" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Sport",ESPN (US)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1180
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/509097
