@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/476rnm1ekra4v1mgnekg"
+#EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
 #EXTINF:-1 tvg-chno="15" tvg-id="NBCEastStream.us" tvg-name="NBC" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="US FTA",NBC
 http://fl1.moveonjoy.com/NBC/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="US FTA",CBS
