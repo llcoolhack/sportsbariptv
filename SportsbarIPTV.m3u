@@ -8,7 +8,7 @@ http://fl1.moveonjoy.com/ABC/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://img.zuzz.tv/assets/channels/oJBjZDXoV5MyJ2GduEASuGGvqvyP00o0YsgsSSwhzR4Dl3wndB.png" group-title="US FTA",TNT
 http://84.17.40.25/TNT/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="FOX35Orlando.us" tvg-name="FOX" tvg-logo="https://img.zuzz.tv/assets/channels/qvaWX6mlwH0ZtIN66wd9qnN5DaLIMw6IeRjGrQaViGNjZIVcsI.png" group-title="US FTA",FOX
-https://fl1.moveonjoy.com/FOX/index.m3u8
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=1785
 #EXTINF:-1 tvg-chno="20" tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://img.zuzz.tv/assets/channels/8xATOcQY2eBC8e4MoBuYkunNjerUuTIf8kIQck1kxz7nqFAZXC.png" group-title="US FTA",TBS
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1790
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
