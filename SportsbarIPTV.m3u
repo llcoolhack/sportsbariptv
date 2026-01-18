@@ -172,6 +172,16 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418164
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418153
 #EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="Sport",Altitude Sports
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418152
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="Sport",TNT Sports 1
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=1261564&extension=ts&play_token=GXiGoCvriU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79485.png" group-title="Sport",TNT Sports 2
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=79485&extension=ts&play_token=sICZhBfpaK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79484.png" group-title="Sport",TNT Sports 3
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=79484&extension=ts&play_token=pVJuj27Smr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="Sport",TNT Sports 4
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=1002857&extension=ts&play_token=Vx9KHkkIKi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="Sport",TNT Sports 5
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=1004549&extension=ts&play_token=73uC0OMy6r
 #EXTINF:-1 tvg-id="NBA_ATL" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Hawks.png" group-title="NBA",Atlanta Hawks
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/731622
 #EXTINF:-1 tvg-id="NBA_BOS" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Celtics.png" group-title="NBA",Boston Celtics
