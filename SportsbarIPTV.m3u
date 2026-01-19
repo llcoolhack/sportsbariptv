@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
 #EXTINF:-1 tvg-chno="15" tvg-id="NBCEastStream.us" tvg-name="NBC" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="US FTA",NBC
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=73273&extension=ts&play_token=lfZfM05xzo
+http://proxpanel.live:80/Ronald/Ronald1/253198
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="US FTA",CBS
 http://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="KABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/2560px-ABC-2021-LOGO.svg.png" group-title="US FTA",ABC
