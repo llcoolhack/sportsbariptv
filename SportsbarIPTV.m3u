@@ -173,9 +173,9 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418153
 #EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="Sport",Altitude Sports
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418152
 #EXTINF:-1 tvg-id="NBC.golf" tvg-name="NBC Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/2560px-Golf_Channel_logo_2025.svg.png" group-title="Sport",Golf Channel
-http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=45532&extension=ts&play_token=X3bLjt0AJz
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418180
 #EXTINF:-1 tvg-id="Olympic Channel" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport",Olympic Channel
-http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=806919&extension=ts&play_token=Q4RPp6OLGO
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418193
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="Sport",TNT Sports 1
 http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=1261564&extension=ts&play_token=GXiGoCvriU
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/79485.png" group-title="Sport",TNT Sports 2
@@ -281,9 +281,9 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar", Sportsbar+ Princeton Basketball
-http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=1949847&extension=ts&play_token=amXFVHnWpi
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=1949847&extension=ts&play_token=QPcPt0P0y6
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 1
-http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=239086&extension=ts&play_token=HjfnKPOjfG
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=239086&extension=ts&play_token=ChBZXmuDph
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 2
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=4223
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 3
