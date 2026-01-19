@@ -49,10 +49,6 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/683405
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417911
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="US FTA",Tru TV
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417917
-#EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 1
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australia",Sky Racing 2
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="10Brisbane.au" tvg-name="Ten" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="Australia",Ten
 https://dai.google.com/linear/hls/pb/event/qOi3HPO6Tw2L-U4x99U3IQ/stream/ae641b6c-f033-423c-967c-6f6dbef43bb3:SIN/master.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="ChannelNineBrisbane.au" tvg-name="Nine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/2560px-Nine_Network_logo_%282008%29.svg.png" group-title="Australia",Nine
@@ -69,35 +65,39 @@ https://i.mjh.nz/.r/7mate-bri.m3u8
 https://c.mjh.nz/abc-qld.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="SBS.au" tvg-name="SBS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Cricket
+EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Aus Sport",Sky Racing 1
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Aus Sport",Sky Racing 2
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
-#EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Australia",Fox League
+#EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Aus Sport",Fox League
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698955
-#EXTINF:-1 tvg-id="799" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 503
+#EXTINF:-1 tvg-id="799" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 503
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698954
-#EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Australia",Fox Footy
+#EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Aus Sport",Fox Footy
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698957
-#EXTINF:-1 tvg-id="801" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 505
+#EXTINF:-1 tvg-id="801" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 505
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25033.ts
-#EXTINF:-1 tvg-id="802" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 506
+#EXTINF:-1 tvg-id="802" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 506
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25034.ts
-#EXTINF:-1 tvg-id="803" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Sports 507
+#EXTINF:-1 tvg-id="803" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 507
 http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25035.ts
-#EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Australia",Racing.com
+#EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Aus Sport",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="ESPN.au" tvg-name="ESPN" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Australia",ESPN
+#EXTINF:-1 tvg-chno="13" tvg-id="ESPN.au" tvg-name="ESPN" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Aus Sport",ESPN
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/759475.ts
-#EXTINF:-1 tvg-chno="14" tvg-id="ESPN2.au" tvg-name="ESPN2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",ESPN2
+#EXTINF:-1 tvg-chno="14" tvg-id="ESPN2.au" tvg-name="ESPN2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",ESPN2
 http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/759460.ts
-#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Australia",SKY Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759461
-#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 2" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Australia",SKY Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 2" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759462
-#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 3" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Australia",SKY Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 3" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759463
-#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 4" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Australia",SKY Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 4" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 4
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759464
-#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 5" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Australia",SKY Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 5" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 5
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759465
 #EXTINF:-1 tvg-chno="22" tvg-id="ESPN.us" tvg-name="ESPN (US)" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Sport",ESPN (US)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1180
@@ -172,6 +172,10 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418164
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418153
 #EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="Sport",Altitude Sports
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418152
+#EXTINF:-1 tvg-id="NBC.golf" tvg-name="NBC Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/2560px-Golf_Channel_logo_2025.svg.png" group-title="Sport",Golf Channel
+http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=45532&extension=ts&play_token=X3bLjt0AJz
+#EXTINF:-1 tvg-id="Olympic Channel" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport",Olympic Channel
+http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=806919&extension=ts&play_token=Q4RPp6OLGO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="Sport",TNT Sports 1
 http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=1261564&extension=ts&play_token=GXiGoCvriU
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/79485.png" group-title="Sport",TNT Sports 2
@@ -276,17 +280,17 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3685
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar", Sportsbar+ 1
-https://sredirm8r2ydggkf-4730cv4costj.sdu.sdx-sdx.com/6u7c224a56/LYoYhZdmxKVAni3Dt2TiliPCHJ02XxcDKSSafjA6k5Zs_HLmPVjaGn9BsMOwb-SqgG1BhRivKn9KIoqpCfzM8a-9HoqXcUrIfMqKMtd60j-Qh21cnmpyEWFgEGAH0nEVYcgB3-V-UfAMYsjWPIM1uQ/law-and-order-special-victims-unit-s25e01-720.mp4?osh=29jnzZzm3OHYydyhy97g&bf=false&rct=0&r=qbiqpf&ut=premium&_u=m8r2ydggkf&_t=a53u0u
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 2
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4222
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 3
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar", Sportsbar+ Princeton Basketball
+http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=1949847&extension=ts&play_token=amXFVHnWpi
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 1
+http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=239086&extension=ts&play_token=HjfnKPOjfG
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 2
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=4223
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 4
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 3
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=4226
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 5
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 4
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781557
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 6
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 5
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781558
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 7
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781559
@@ -310,6 +314,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=5069
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5078
 #EXTINF:-1 tvg-id="4149" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4149.png" group-title="Kids",Rugrats
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5125
+#EXTINF:-1 tvg-name="24/7: SNL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/SNL_season_50_Logo.png" group-title="24/7",24/7: SNL
+http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=1918082&extension=ts&play_token=eIwSEcd8PY
 #EXTINF:-1 tvg-name="24/7: 24" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d841e10d399b8a839ad433b46ba72c0.jpg" group-title="24/7",24/7: 24
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681767
 #EXTINF:-1 tvg-name="24/7: 30 Rock" tvg-logo="http://onlytimewilltell.xyz:2086/images/077f3163daee0bf8616148fde1b4ecd1.jpg" group-title="24/7",24/7: 30 Rock
