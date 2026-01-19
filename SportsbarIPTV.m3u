@@ -69,7 +69,7 @@ https://i.mjh.nz/.r/7mate-bri.m3u8
 https://c.mjh.nz/abc-qld.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="SBS.au" tvg-name="SBS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Australia",Fox Cricket
+#EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Australia",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Australia",Fox League
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698955
