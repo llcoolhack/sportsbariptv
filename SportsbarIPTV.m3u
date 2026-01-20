@@ -300,8 +300,14 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781560
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781561
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ 10
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/781562
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 01
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 2
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2277
+#EXTINF:-1 tvg-id="3692" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 3
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=3692
+#EXTINF:-1 tvg-id="2673" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 4
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2673
 #EXTINF:-1 tvg-id="473724" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bluey_%28TV_series%29_logo.svg/2560px-Bluey_%28TV_series%29_logo.svg.png" group-title="Kids",Bluey
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681865
 #EXTINF:-1 tvg-id="4000" tvg-logo="https://1000logos.net/wp-content/uploads/2023/09/Peppa-Pig-Logo.png" group-title="Kids",Peppa Pig
@@ -312,7 +318,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=4431
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5069
 #EXTINF:-1 tvg-id="4149" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4149.png" group-title="Kids",Pokemon
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5078
-#EXTINF:-1 tvg-id="4149" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4149.png" group-title="Kids",Rugrats
+#EXTINF:-1 tvg-id="4149" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Rugrats_logo.png" group-title="Kids",Rugrats
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5125
 #EXTINF:-1 tvg-name="24/7: SNL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/SNL_season_50_Logo.png" group-title="24/7",24/7: SNL
 http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=1918082&extension=ts&play_token=eIwSEcd8PY
