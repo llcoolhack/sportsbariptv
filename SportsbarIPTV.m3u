@@ -360,6 +360,16 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=6856
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6857
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 30
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6858
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 1
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=5818
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 2
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=5815
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 3
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=5817
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 4
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=5816
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 5
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=5820
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
 #EXTINF:-1 tvg-id="2277" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 2
