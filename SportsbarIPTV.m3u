@@ -164,6 +164,12 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=2408
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2402
 #EXTINF:-1 tvg-id="TSN2(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/MrRZ4nMuezzMaDtTG5njMtfU1yWtZ66NnDedPO4bRZPeAlveQr.png" group-title="Sport",TSN 2
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2403
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/NMFrmjkr6ks5ufS50WxHZ2J5k2R7C0rZxoJYdrYslKt8MVGuok.png" group-title="Sport",TSN 3
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2404
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/Mt5DDoZTFkQojCM4HoHBDWEveQQ5RGWuH4coiIucWhmtayTaSv.png" group-title="Sport",TSN 4
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2405
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/Y7vsUoQbe2X2rs7xcaYNG0mvOKncb9z4fEpPjhzdZXXNPqHTvK.png" group-title="Sport",TSN 5
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=2406
 #EXTINF:-1 tvg-id="1223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2560px-WWE_official_logo.svg.png" group-title="Sport",WWE HD
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1223
 #EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sportsnet LA
