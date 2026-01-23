@@ -287,7 +287,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar", Sportsbar+
-http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1597023&extension=ts&play_token=XezFEklSvc
+http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1597020&extension=ts&play_token=KfrodSkzSW
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 1
 http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=239086&extension=ts&play_token=ChBZXmuDph
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Rugby 2
