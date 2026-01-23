@@ -174,6 +174,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=2406
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1223
 #EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sportsnet LA
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418164
+#EXTINF:-1 tvg-id="SpectrumSports.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sports Hawaii
+http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1597020&extension=ts&play_token=KfrodSkzSW
 #EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="SPACE CITY HOME NETWORK" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png" group-title="Sport",Space City Home Network
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418153
 #EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="Sport",Altitude Sports
