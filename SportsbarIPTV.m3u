@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
 #EXTINF:-1 tvg-chno="15" tvg-id="NBCEastStream.us" tvg-name="NBC" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="US FTA",NBC
-http://proxpanel.live:80/Ronald/Ronald1/253198
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=362
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="US FTA",CBS
 http://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="KABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/2560px-ABC-2021-LOGO.svg.png" group-title="US FTA",ABC
 http://fl1.moveonjoy.com/ABC/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://img.zuzz.tv/assets/channels/oJBjZDXoV5MyJ2GduEASuGGvqvyP00o0YsgsSSwhzR4Dl3wndB.png" group-title="US FTA",TNT
-http://84.17.40.25/TNT/index.m3u8
+http://rkdyiptv-yupp24.wasmer.app/play.php?id=1177
 #EXTINF:-1 tvg-chno="19" tvg-id="FOX35Orlando.us" tvg-name="FOX" tvg-logo="https://img.zuzz.tv/assets/channels/qvaWX6mlwH0ZtIN66wd9qnN5DaLIMw6IeRjGrQaViGNjZIVcsI.png" group-title="US FTA",FOX
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1785
 #EXTINF:-1 tvg-chno="20" tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://img.zuzz.tv/assets/channels/8xATOcQY2eBC8e4MoBuYkunNjerUuTIf8kIQck1kxz7nqFAZXC.png" group-title="US FTA",TBS
@@ -61,10 +61,10 @@ https://i.mjh.nz/.r/seven-bri.m3u8
 https://i.mjh.nz/.r/7two-bri.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="7mateBrisbane.au" tvg-name="Seven Mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" group-title="Australia",Seven Mate
 https://i.mjh.nz/.r/7mate-bri.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="ABCBrisbane.au" tvg-name="ABC TV" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/7006.png" group-title="Australia",SBS
+#EXTINF:-1 tvg-chno="12" tvg-id="ABCBrisbane.au" tvg-name="ABC TV" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="SBS.au" tvg-name="SBS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Australia",ABC TV
-https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="SBS.au" tvg-name="SBS" tvg-logo="https://cdn.brandfetch.io/iddfh-LRKN/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Australia",SBS
+https://i.mjh.nz/.r/sbs-sbst.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Aus Sport",Sky Racing 1
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Aus Sport",Sky Racing 2
