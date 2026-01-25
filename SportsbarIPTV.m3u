@@ -13,6 +13,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=1785
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1790
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=353
+#EXTINF:-1 tvg-chno="22" tvg-id="" tvg-name="Jeopardy" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",Jeopardy
+http://b1g.uk:80/Rajesh/123456/970321
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="US FTA",A&E
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417871
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="US FTA",AMC
