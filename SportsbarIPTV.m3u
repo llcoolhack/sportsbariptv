@@ -71,26 +71,28 @@ https://i.mjh.nz/.r/sbs-sbst.m3u8
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Aus Sport",Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Sports News" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="Aus Sport",Fox Sports News
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646972&extension=ts&play_token=zod2HVwp6G
 #EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Aus Sport",Fox League
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698955
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646970&extension=ts&play_token=xJHguOHh8J
 #EXTINF:-1 tvg-id="799" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 503
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698954
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646969&extension=ts&play_token=WC1vOH25lE
 #EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Aus Sport",Fox Footy
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/698957
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646968&extension=ts&play_token=suLboMH1mT
 #EXTINF:-1 tvg-id="801" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 505
-http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25033.ts
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646967&extension=ts&play_token=Aqr7wnzRe9
 #EXTINF:-1 tvg-id="802" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 506
-http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25034.ts
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646966&extension=ts&play_token=0EZ6kecfGf
 #EXTINF:-1 tvg-id="803" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 507
-http://vipketseyket.top:8080/live/CONSUELO/CONSUELO/25035.ts
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646965&extension=ts&play_token=dtibI66RLB
 #EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Aus Sport",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ESPN.au" tvg-name="ESPN" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Aus Sport",ESPN
-http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/759475.ts
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=1520168&extension=ts&play_token=ASsMPEmmWc
 #EXTINF:-1 tvg-chno="14" tvg-id="ESPN2.au" tvg-name="ESPN2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",ESPN2
-http://23.227.140.75:8880/live/ElizJohn614/fdtXMLpTA9/759460.ts
+http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=1520167&extension=ts&play_token=LeThcgerU1
 #EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/759461
 #EXTINF:-1 tvg-id="" tvg-name="NZS: SKY Sport 2" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
