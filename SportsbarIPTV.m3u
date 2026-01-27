@@ -71,7 +71,7 @@ https://i.mjh.nz/.r/sbs-sbst.m3u8
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Aus Sport",Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Sports News" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="Aus Sport",Fox Sports News
+#EXTINF:-1 tvg-chno="1" tvg-id="FOXSportsNews.au" tvg-name="Fox Sports News" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports News
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646972&extension=ts&play_token=zod2HVwp6G
 #EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
