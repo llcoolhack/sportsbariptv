@@ -312,6 +312,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=6775
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6776
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 8
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6777
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Test
+https://streaming.naoca.com.au/embed/event/d7e7c7b6-b92b-4895-a074-43b3580e4c85
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6829
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 2
