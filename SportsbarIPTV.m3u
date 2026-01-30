@@ -292,10 +292,10 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3685
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Crusaders v Highlanders - Friday 30 Jan 12:30pm AEST
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Skysports+
 https://www.youtube.com/embed/dImgsrLUu8E
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Skysports Rugby
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:F0:48:F9&stream=239086&extension=ts&play_token=ChBZXmuDph
+http://b1g.uk:80/Rajesh/123456/313505
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6770
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 2
@@ -312,7 +312,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=6775
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6776
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 8
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6777
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Test
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+
 https://streaming.naoca.com.au/embed/event/d7e7c7b6-b92b-4895-a074-43b3580e4c85
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=6829
