@@ -392,11 +392,11 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=5817
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5816
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 5
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5820
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC UK PPV
-http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1022189&extension=ts&play_token=l5d773l63w
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Paramount
-http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1910727&extension=ts&play_token=L9y4t07CfM
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC SN+
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 325
+http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1022190&extension=ts&play_token=p07IdNQSEQ
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 325.2
+http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1395686&extension=ts&play_token=NTKNB8sFNW
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 325.3
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1909748&extension=ts&play_token=kahFFk2gwq
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
