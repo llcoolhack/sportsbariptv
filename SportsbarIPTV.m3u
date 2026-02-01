@@ -410,6 +410,8 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=2673
 http://sky-glass.live:80/Luke1/Luke2/611292
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/CA-Disney-Channel.png" group-title="Kids",24/7 Disney Movies
 http://sky-glass.live:80/Luke1/Luke2/973372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/CA-Disney-Channel.png" group-title="Kids",24/7 Disney Songs
+http://sky-glass.live:80/Luke1/Luke2/973370
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="US Disney Junior" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/Disney-Junior.png" group-title="Kids",Disney Junior
 http://sky-glass.live:80/Luke1/Luke2/617718
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="US Disney XD (East)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/Disney-XD.png" group-title="Kids",Disney XD
