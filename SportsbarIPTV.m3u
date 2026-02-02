@@ -77,15 +77,15 @@ http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646972&extens
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Aus Sport",Fox League
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646970&extension=ts&play_token=xJHguOHh8J
-#EXTINF:-1 tvg-id="799" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 503
+#EXTINF:-1 tvg-id="FOXSPORTS503.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 503
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646969&extension=ts&play_token=WC1vOH25lE
 #EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Aus Sport",Fox Footy
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646968&extension=ts&play_token=suLboMH1mT
-#EXTINF:-1 tvg-id="801" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 505
+#EXTINF:-1 tvg-id="FOXSPORTS505.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 505
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646967&extension=ts&play_token=Aqr7wnzRe9
-#EXTINF:-1 tvg-id="802" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 506
+#EXTINF:-1 tvg-id="FOXSPORTS506.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 506
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646966&extension=ts&play_token=0EZ6kecfGf
-#EXTINF:-1 tvg-id="803" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 507
+#EXTINF:-1 tvg-id="FOXSPORTS507.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 507
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646965&extension=ts&play_token=dtibI66RLB
 #EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Aus Sport",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
@@ -184,9 +184,9 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=2405
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2406
 #EXTINF:-1 tvg-id="1223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2560px-WWE_official_logo.svg.png" group-title="Sport",WWE HD
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1223
-#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sportsnet LA
+#EXTINF:-1 tvg-id="SpectrumSportsNet(src09).us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sportsnet LA
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418164
-#EXTINF:-1 tvg-id="SpectrumSports.us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sports Hawaii
+#EXTINF:-1 tvg-id="SpectrumOC16(src09).us" tvg-name="SPECTRUMOC16" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sports Hawaii
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1597020&extension=ts&play_token=KfrodSkzSW
 #EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="SPACE CITY HOME NETWORK" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png" group-title="Sport",Space City Home Network
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418153
@@ -392,11 +392,11 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=5817
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5816
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 5
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=5820
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 325
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 1
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1022190&extension=ts&play_token=p07IdNQSEQ
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 325.2
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 2
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1395686&extension=ts&play_token=NTKNB8sFNW
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 325.3
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 3
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1909748&extension=ts&play_token=kahFFk2gwq
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
