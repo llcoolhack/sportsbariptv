@@ -93,23 +93,23 @@ https://i.mjh.nz/.r/racing-fast.m3u8
 http://sky-glass.live:80/Luke1/Luke2/104060
 #EXTINF:-1 tvg-chno="14" tvg-id="ESPN2.au" tvg-name="ESPN2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",ESPN2
 http://sky-glass.live:80/Luke1/Luke2/104058
-#EXTINF:-1 tvg-id="" tvg-name="SkySport1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
 http://sky-glass.live:80/Luke1/Luke2/622400
-#EXTINF:-1 tvg-id="" tvg-name="SkySport2.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="SkySport2.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
 http://sky-glass.live:80/Luke1/Luke2/622401
-#EXTINF:-1 tvg-id="" tvg-name="SkySport3.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
+#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="SkySport3.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
 http://sky-glass.live:80/Luke1/Luke2/622402
-#EXTINF:-1 tvg-id="" tvg-name="SkySport4.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 4
+#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="SkySport4.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 4
 http://sky-glass.live:80/Luke1/Luke2/622403
-#EXTINF:-1 tvg-id="" tvg-name="SkySport5.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 5
+#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="SkySport5.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 5
 http://sky-glass.live:80/Luke1/Luke2/622404
-#EXTINF:-1 tvg-id="" tvg-name="SkySport6.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 6
+#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="SkySport6.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 6
 http://sky-glass.live:80/Luke1/Luke2/622405
-#EXTINF:-1 tvg-id="" tvg-name="SkySport7.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 7
+#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="SkySport7.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 7
 http://sky-glass.live:80/Luke1/Luke2/622406
-#EXTINF:-1 tvg-id="" tvg-name="SkySport8.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 8
+#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="SkySport8.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 8
 http://sky-glass.live:80/Luke1/Luke2/622407
-#EXTINF:-1 tvg-id="" tvg-name="SkySport9.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 9
+#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="SkySport9.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 9
 http://sky-glass.live:80/Luke1/Luke2/622408
 #EXTINF:-1 tvg-chno="22" tvg-id="ESPN.us" tvg-name="ESPN (US)" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Sport",ESPN (US)
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=1180
