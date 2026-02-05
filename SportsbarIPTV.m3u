@@ -76,15 +76,15 @@ http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646972&extens
 #EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Cricket
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2756
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Aus Sport",Fox League
-http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646970&extension=ts&play_token=xJHguOHh8J
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60759.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS503.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 503
-http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646969&extension=ts&play_token=WC1vOH25lE
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60760.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Aus Sport",Fox Footy
-http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646968&extension=ts&play_token=suLboMH1mT
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60761.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS505.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 505
-http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646967&extension=ts&play_token=Aqr7wnzRe9
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60762.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS506.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 506
-http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646966&extension=ts&play_token=0EZ6kecfGf
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/5214.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS507.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 507
 http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646965&extension=ts&play_token=dtibI66RLB
 #EXTINF:-1 tvg-chno="3" tvg-id="RACINGCOM(Foxtel).au" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="Aus Sport",Racing.com
