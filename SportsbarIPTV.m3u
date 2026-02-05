@@ -94,7 +94,7 @@ http://sky-glass.live:80/Luke1/Luke2/104060
 #EXTINF:-1 tvg-chno="14" tvg-id="ESPN2.au" tvg-name="ESPN2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",ESPN2
 http://sky-glass.live:80/Luke1/Luke2/104058
 #EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
-http://sky-glass.live:80/Luke1/Luke2/622400
+https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/75507.m3u8
 #EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="SkySport2.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
 http://sky-glass.live:80/Luke1/Luke2/622401
 #EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="SkySport3.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
