@@ -301,7 +301,7 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+
-http://proxpanel.live:80/Ronald/Ronald1/762242
+https://api.m3use.projectmoose.xyz/m3u/llcoolhack/Test/69855191fe8a6e944a0148ce.m3u8?uid=llcoolhack&pkey=5a6UiD4b
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Supersport Rugby
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/62767.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 1
