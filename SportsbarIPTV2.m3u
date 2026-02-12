@@ -130,6 +130,8 @@ https://airtel.rkdyiptv.workers.dev/live/3967.m3u8
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="FS2(Spanish).us" tvg-name="Fox Sports 2" tvg-logo="https://img.zuzz.tv/assets/channels/RrZjqqiVySHtSDHJ2nOAovVI6adigv08Nr5kK2Yvkp6mycDiIA.png" group-title="Sport",Fox Sports 2
 https://airtel.rkdyiptv.workers.dev/live/252.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="FoxSoccerPlus.us" tvg-name="Fox Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1280px-Fox_Soccer_Plus_logo.svg.png" group-title="Sport",Fox Soccer Plus
+http://envytv.xyz:25461/marGOR45/Spring21/57808
 #EXTINF:-1 tvg-chno="31" tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://img.zuzz.tv/assets/channels/nQHA4H2nbSgMgsyIZxip5X0anhT605Gxq8elGxCsoXkPVzZjJD.png" group-title="Sport",CBS Sports Network
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://img.zuzz.tv/assets/channels/3DkMPY1wYO7mFGTGispHwPtw5VWwLGQvfhJGodUp4isSONVxwI.png" group-title="Sport",NFL Network
