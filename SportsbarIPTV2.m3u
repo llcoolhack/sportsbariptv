@@ -304,25 +304,21 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=3686
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=3687
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ NRL
 http://envytv.xyz:25461/marGOR45/Spring21/57808
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Supersport Rugby
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/62767.m3u8
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 1
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6770
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 2
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6771
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 3
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6772
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 4
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6773
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 5
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6774
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 6
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6775
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 7
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6776
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Flo Rugby 8
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6777
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 1
+https://yupptv.rkdyiptv.workers.dev/live/6782.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 2
+https://yupptv.rkdyiptv.workers.dev/live/6783.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 3
+https://yupptv.rkdyiptv.workers.dev/live/6784.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 4
+https://yupptv.rkdyiptv.workers.dev/live/6785.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 5
+https://yupptv.rkdyiptv.workers.dev/live/6786.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 6
+https://yupptv.rkdyiptv.workers.dev/live/6787.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 7
+https://yupptv.rkdyiptv.workers.dev/live/6788.m3u8
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Special Event
 https://streaming.naoca.com.au/embed/event/d7e7c7b6-b92b-4895-a074-43b3580e4c85
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 1
 https://airtel.rkdyiptv.workers.dev/live/4895.m3u8
