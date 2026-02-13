@@ -208,6 +208,32 @@ https://airtel.rkdyiptv.workers.dev/live/314.m3u8
 https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="Sport",TNT Sports Ultimate
 https://airtel.rkdyiptv.workers.dev/live/2449.m3u8
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="SKY SPORTS BOX OFFICE 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Box Office
+https://yupptv.rkdyiptv.workers.dev/live/3542.m3u8
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Main Event
+https://yupptv.rkdyiptv.workers.dev/live/531.m3u8
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Cricket
+https://yupptv.rkdyiptv.workers.dev/live/532.m3u8
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="SKY SPORTS ACTION 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Action
+https://yupptv.rkdyiptv.workers.dev/live/533.m3u8
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="SKY SPORTS GOLF 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Golf
+https://yupptv.rkdyiptv.workers.dev/live/535.m3u8
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Premier League
+https://yupptv.rkdyiptv.workers.dev/live/536.m3u8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="SKY SPORTS F1 4K" tvg-logo="" group-title="Sky Sport UK",Sky Sports F1
+https://yupptv.rkdyiptv.workers.dev/live/674.m3u8
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="SKY SPORTS TENNIS 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Tennis
+https://yupptv.rkdyiptv.workers.dev/live/2460.m3u8
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Football
+https://yupptv.rkdyiptv.workers.dev/live/2473.m3u8
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="SKY SPORTS MIX 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Mix
+https://yupptv.rkdyiptv.workers.dev/live/2474.m3u8
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS RACING 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Racing
+https://yupptv.rkdyiptv.workers.dev/live/2893.m3u8
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="SKY SPORTS + 4K" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports Rugby
+https://yupptv.rkdyiptv.workers.dev/live/3543.m3u8
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports News
+https://yupptv.rkdyiptv.workers.dev/live/562.m3u8
 #EXTINF:-1 tvg-id="NBA_ATL" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Hawks.png" group-title="NBA",Atlanta Hawks
 https://airtel.rkdyiptv.workers.dev/live/5053.m3u8
 #EXTINF:-1 tvg-id="NBA_BOS" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Celtics.png" group-title="NBA",Boston Celtics
