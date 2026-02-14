@@ -166,8 +166,6 @@ http://rkdyiptv-yupp24.wasmer.app/play.php?id=1968
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418183
 #EXTINF:-1 tvg-chno="45" tvg-id="NESN4K.us" tvg-name="NESN" tvg-logo="https://img.zuzz.tv/assets/channels/pNcr1AgqdNw9MAjXJeWzOgxwUx3XJ7CdLZs2BGThVwk3LR4C4a.png" group-title="Sport",NESN
 http://envytv.xyz:25461/marGOR45/Spring21/57879
-#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroitOutofMarket.us" tvg-logo="https://press.fanduel.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Ffanduel_common_production%2F08bd6bfd645437fd56a3edbdac4657c23312af6a-4882x4868.png&w=640&q=100" group-title="Sport",Fan Duel Sports Detroit
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=6714
 #EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/6RuLHjfUbnLRqOTuwepYsaGveKflL1gWopzlB1mFk3DdLxscVa.png" group-title="Sport",Sportsnet Ontario
 https://airtel.rkdyiptv.workers.dev/live/264.m3u8
 #EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/6RuLHjfUbnLRqOTuwepYsaGveKflL1gWopzlB1mFk3DdLxscVa.png" group-title="Sport",Sportsnet West
@@ -185,7 +183,7 @@ https://airtel.rkdyiptv.workers.dev/live/261.m3u8
 #EXTINF:-1 tvg-id="TSN5(English).ca" tvg-logo="https://img.zuzz.tv/assets/channels/Y7vsUoQbe2X2rs7xcaYNG0mvOKncb9z4fEpPjhzdZXXNPqHTvK.png" group-title="Sport",TSN 5
 https://airtel.rkdyiptv.workers.dev/live/262.m3u8
 #EXTINF:-1 tvg-id="1223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2560px-WWE_official_logo.svg.png" group-title="Sport",WWE HD
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=1223
+http://mytvstream.net:8080/tezj/1202Allday/260496
 #EXTINF:-1 tvg-id="SpectrumSportsNet(src09).us" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sportsnet LA
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418164
 #EXTINF:-1 tvg-id="SpectrumOC16(src09).us" tvg-name="SPECTRUMOC16" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="Sport",Spectrum Sports Hawaii
@@ -234,6 +232,36 @@ https://yupptv.rkdyiptv.workers.dev/live/2893.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/3543.m3u8
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports News
 https://yupptv.rkdyiptv.workers.dev/live/562.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS DETROIT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="Fanduel Sports",Fanduel Sports Detroit
+https://yupptv.rkdyiptv.workers.dev/live/6714.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS FLORIDA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Florida
+https://yupptv.rkdyiptv.workers.dev/live/6715.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS INDIANA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Indiana
+https://yupptv.rkdyiptv.workers.dev/live/6716.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS KANSAS CITY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Kansas City
+https://yupptv.rkdyiptv.workers.dev/live/6717.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS MIDWEST 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Midwest
+https://yupptv.rkdyiptv.workers.dev/live/6719.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS NORTH 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports North
+https://yupptv.rkdyiptv.workers.dev/live/6718.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS OHIO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Ohio
+https://yupptv.rkdyiptv.workers.dev/live/6720.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS OKLAHOMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Oklahoma
+https://yupptv.rkdyiptv.workers.dev/live/6721.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS SOCAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports SoCal
+https://yupptv.rkdyiptv.workers.dev/live/6722.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS SOUTH 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports South
+https://yupptv.rkdyiptv.workers.dev/live/6723.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS SOUTHEAST 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Southeast
+https://yupptv.rkdyiptv.workers.dev/live/6724.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS SOUTHWEST 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Southwest
+https://yupptv.rkdyiptv.workers.dev/live/6725.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS SUN 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports Sun
+https://yupptv.rkdyiptv.workers.dev/live/6726.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS WEST 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS | PPV",Fanduel Sports West
+https://yupptv.rkdyiptv.workers.dev/live/6727.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS WISCONSIN 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="Fanduel Sports",Fanduel Sports Wisconsin
+https://yupptv.rkdyiptv.workers.dev/live/6728.m3u8
 #EXTINF:-1 tvg-id="NBA_ATL" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Hawks.png" group-title="NBA",Atlanta Hawks
 https://airtel.rkdyiptv.workers.dev/live/5053.m3u8
 #EXTINF:-1 tvg-id="NBA_BOS" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Celtics.png" group-title="NBA",Boston Celtics
