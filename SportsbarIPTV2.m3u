@@ -119,7 +119,7 @@ https://airtel.rkdyiptv.workers.dev/live/255.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://img.zuzz.tv/assets/channels/ADqzwrsmny6Tyc4l6K5OF9tNeEY0szYUiVaodlzI7H2JC4b6uk.png" group-title="Sport",ESPNU
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="BigTenNetwork.us" tvg-name="Big 10" tvg-logo="https://img.zuzz.tv/assets/channels/big10.png" group-title="Sport",Big 10
-https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+http://envytv.xyz:25461/marGOR45/Spring21/57910
 #EXTINF:-1 tvg-chno="26" tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://img.zuzz.tv/assets/channels/sec.png" group-title="Sport",SEC Network
 http://143.244.60.30/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://img.zuzz.tv/assets/channels/ACC.png" group-title="Sport",ACC Network
@@ -468,16 +468,6 @@ http://sky-glass.live:80/Luke1/Luke2/617718
 http://sky-glass.live:80/Luke1/Luke2/611296
 #EXTINF:-1 tvg-id="473724" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bluey_%28TV_series%29_logo.svg/2560px-Bluey_%28TV_series%29_logo.svg.png" group-title="Kids",Bluey
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/681865
-#EXTINF:-1 tvg-id="4000" tvg-logo="https://1000logos.net/wp-content/uploads/2023/09/Peppa-Pig-Logo.png" group-title="Kids",Peppa Pig
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4421
-#EXTINF:-1 tvg-id="3991" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png" group-title="Kids",Paw Patrol
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=4431
-#EXTINF:-1 tvg-id="4153" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Pingu_Logo.png" group-title="Kids",Pingu
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5069
-#EXTINF:-1 tvg-id="4149" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/4149.png" group-title="Kids",Pokemon
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5078
-#EXTINF:-1 tvg-id="4149" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Rugrats_logo.png" group-title="Kids",Rugrats
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=5125
 #EXTINF:-1 tvg-name="24/7: SNL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/SNL_season_50_Logo.png" group-title="24/7",24/7: SNL
 http://mag.trx-ott.com:80/play/live.php?mac=00:1A:79:E7:E9:64&stream=1918082&extension=ts&play_token=eIwSEcd8PY
 #EXTINF:-1 tvg-name="24/7: 24" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d841e10d399b8a839ad433b46ba72c0.jpg" group-title="24/7",24/7: 24
