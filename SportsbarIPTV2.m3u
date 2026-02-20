@@ -151,7 +151,7 @@ https://airtel.rkdyiptv.workers.dev/live/2688.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="MSGSportsnet2.us" tvg-name="MSG Sportsnet" tvg-logo="https://img.zuzz.tv/assets/channels/uTIfEcLMqxJjXaVZaGqCLBWaJCN6ML7saYVypSeCMAoVqNoNUe.png" group-title="Sport",MSG Sportsnet
 https://airtel.rkdyiptv.workers.dev/live/2690.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="https://img.zuzz.tv/assets/channels/IWeXhdnKlWTNNugPeZLYDuEAhB60dTmvTcVOKk0RJoupzRYyWA.png" group-title="Sport",YES Network
-https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/1890.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://img.zuzz.tv/assets/channels/35h2LeGaAVnL64dYxnCy8zspXR8zeDdsVSdGXt1n07HMlBCSDp.png" group-title="Sport",NBC Sports Bay Area
 https://airtel.rkdyiptv.workers.dev/live/2414.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://img.zuzz.tv/assets/channels/b6MjsvM3qfQY4CZV1LVJWwFt1mVVoj3iX7gmPTH7MiP8rFWFAk.png" group-title="Sport",NBC Sports Boston
