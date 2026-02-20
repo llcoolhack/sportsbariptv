@@ -117,7 +117,7 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/509097
 #EXTINF:-1 tvg-chno="23" tvg-id="ESPN2.us" tvg-name="ESPN2 (US)" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Sport",ESPN2 (US)
 https://airtel.rkdyiptv.workers.dev/live/255.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://img.zuzz.tv/assets/channels/ADqzwrsmny6Tyc4l6K5OF9tNeEY0szYUiVaodlzI7H2JC4b6uk.png" group-title="Sport",ESPNU
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/256.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="BigTenNetwork.us" tvg-name="Big 10" tvg-logo="https://img.zuzz.tv/assets/channels/big10.png" group-title="Sport",Big 10
 http://envytv.xyz:25461/marGOR45/Spring21/57910
 #EXTINF:-1 tvg-chno="26" tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://img.zuzz.tv/assets/channels/sec.png" group-title="Sport",SEC Network
