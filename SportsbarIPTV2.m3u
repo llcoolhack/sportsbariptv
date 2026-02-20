@@ -372,10 +372,12 @@ https://yupptv.rkdyiptv.workers.dev/live/6786.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/6787.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 7
 https://yupptv.rkdyiptv.workers.dev/live/6788.m3u8
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Hurricanes v Moana
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1535931&extension=ts&play_token=IgsVYOqS32
-#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Waratahs v Drua
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1535930&extension=ts&play_token=uBJW9NQ8c7
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Force v Reds (Next Gen)
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1535917&extension=ts&play_token=nOOq55jMPP
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Highlanders v Chiefs
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1535916&extension=ts&play_token=HvdCTEPHuh
+#EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Force v Blues
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1535915&extension=ts&play_token=4mddF9WsP5
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 1
 https://airtel.rkdyiptv.workers.dev/live/4895.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 2
