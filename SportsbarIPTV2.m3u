@@ -358,8 +358,6 @@ https://yupptv.rkdyiptv.workers.dev/live/2939.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/2940.m3u8
 #EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
 https://yupptv.rkdyiptv.workers.dev/live/2941.m3u8
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Force v Blues
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1535949&extension=ts&play_token=Bun4Dpkz17
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 1
 https://yupptv.rkdyiptv.workers.dev/live/6782.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Sportsbar+ Footy 2
