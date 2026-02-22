@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-chno="15" tvg-id="NBCEastStream.us" tvg-name="NBC" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="US FTA",NBC
 https://airtel.rkdyiptv.workers.dev/live/78.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="US FTA",CBS
-http://fl1.moveonjoy.com/CBS/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/79.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="KABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/2560px-ABC-2021-LOGO.svg.png" group-title="US FTA",ABC
-http://fl1.moveonjoy.com/ABC/index.m3u8
+https://airtel.rkdyiptv.workers.dev/live/103.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://img.zuzz.tv/assets/channels/oJBjZDXoV5MyJ2GduEASuGGvqvyP00o0YsgsSSwhzR4Dl3wndB.png" group-title="US FTA",TNT
 https://airtel.rkdyiptv.workers.dev/live/117.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="FOX35Orlando.us" tvg-name="FOX" tvg-logo="https://img.zuzz.tv/assets/channels/qvaWX6mlwH0ZtIN66wd9qnN5DaLIMw6IeRjGrQaViGNjZIVcsI.png" group-title="US FTA",FOX
