@@ -445,7 +445,7 @@ https://airtel.rkdyiptv.workers.dev/live/4411.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/76b0110529bfcbd9acf935e7284a22d1.png" group-title="Peacock",Peacock 5
 https://airtel.rkdyiptv.workers.dev/live/4412.m3u8
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 1
-http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1022190&extension=ts&play_token=p07IdNQSEQ
+https://airtel.rkdyiptv.workers.dev/live/312.m3u8
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 2
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1395686&extension=ts&play_token=NTKNB8sFNW
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 3
