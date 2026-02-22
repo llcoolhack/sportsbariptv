@@ -324,12 +324,26 @@ https://airtel.rkdyiptv.workers.dev/live/5080.m3u8
 https://airtel.rkdyiptv.workers.dev/live/5081.m3u8
 #EXTINF:-1 tvg-id="NBA_WAS" tvg-logo="https://img.zuzz.tv//logos/teams/Washington%20Wizards.png" group-title="NBA",Washington Wizards
 https://airtel.rkdyiptv.workers.dev/live/5082.m3u8
-#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Bruins" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Bruins.png" group-title="NHL" parent-code="NHL",Boston Bruins
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2968
-#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Flames" tvg-logo="https://img.zuzz.tv//logos/teams/Calgary%20Flames.png" group-title="NHL" parent-code="NHL",Calgary Flames
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2970
-#EXTINF:-1 tvg-id="NHLCenterIce770.us" tvg-name="Rangers" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Rangers.png" group-title="NHL" parent-code="NHL",New York Rangers
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2985
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Ducks" tvg-logo="https://img.zuzz.tv//logos/teams/Anaheim%20Ducks.png" group-title="Fellas Teams" parent-code="Fellas Teams",Anaheim Ducks
+https://airtel.rkdyiptv.workers.dev/live/4989.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Bruins" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Bruins.png" group-title="Fellas Teams" parent-code="Fellas Teams",Boston Bruins
+https://airtel.rkdyiptv.workers.dev/live/4990.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Celtics" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Celtics.png" group-title="Fellas Teams" parent-code="Fellas Teams",Boston Celtics
+https://airtel.rkdyiptv.workers.dev/live/5054.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="Red Sox" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Red%20Sox.png" group-title="Fellas Teams" parent-code="Fellas Teams",Boston Red Sox
+https://airtel.rkdyiptv.workers.dev/live/2345.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Flames" tvg-logo="https://img.zuzz.tv//logos/teams/Calgary%20Flames.png" group-title="Fellas Teams" parent-code="Fellas Teams",Calgary Flames
+https://airtel.rkdyiptv.workers.dev/live/4992.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Pistons" tvg-logo="https://img.zuzz.tv//logos/teams/Detroit%20Pistons.png" group-title="Fellas Teams" parent-code="Fellas Teams",Detroit Pistons
+https://airtel.rkdyiptv.workers.dev/live/5061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dodgers" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Dodgers.png" group-title="Fellas Teams" parent-code="Fellas Teams",Los Angeles Dodgers
+https://airtel.rkdyiptv.workers.dev/live/2355.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce770.us" tvg-name="Rangers" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Rangers.png" group-title="Fellas Teams" parent-code="Fellas Teams",New York Rangers
+https://airtel.rkdyiptv.workers.dev/live/5007.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="Mets" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Mets.png" group-title="Fellas Teams" parent-code="Fellas Teams",New York Mets
+https://airtel.rkdyiptv.workers.dev/live/2359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mets" tvg-logo="https://img.zuzz.tv//logos/teams/Orlando%20Magic.png" group-title="Fellas Teams" parent-code="Fellas Teams",Orlando Magic
+https://airtel.rkdyiptv.workers.dev/live/5074.m3u8
 #EXTINF:-1 tvg-id="2928" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 1
 https://yupptv.rkdyiptv.workers.dev/live/2928.m3u8
 #EXTINF:-1 tvg-id="2929" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 2
