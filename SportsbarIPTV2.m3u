@@ -15,41 +15,41 @@ https://airtel.rkdyiptv.workers.dev/live/118.m3u8
 https://airtel.rkdyiptv.workers.dev/live/85.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="" tvg-name="Jeopardy" tvg-logo="https://logos-world.net/wp-content/uploads/2022/07/Jeopardy-Symbol-700x394.png" group-title="US FTA",Jeopardy
 http://sky-glass.live:80/Luke1/Luke2/970321
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="US FTA",A&E
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="US FTA",A&E
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417871
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="US FTA",AMC
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="US FTA",AMC
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417872
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: ANIMAL PLANET" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="US FTA",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="US FTA",Animal Planet
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417996
-#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="US: ASPIRE" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="US FTA",Aspire
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="Aspire" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="US FTA",Aspire
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417874
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="US FTA",Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="US FTA",Bravo
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417880
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: COMEDY CENTRAL" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="US FTA",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="US FTA",Comedy Central
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417882
-#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="US: CW" tvg-logo="https://iconape.com/wp-content/png_logo_vector/the-cw.png" group-title="US FTA",The CW
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="CW" tvg-logo="https://iconape.com/wp-content/png_logo_vector/the-cw.png" group-title="US FTA",The CW
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/676378
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png" group-title="US FTA",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png" group-title="US FTA",Discovery Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
-#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX" tvg-logo="https://i.ibb.co/c3Hhwxr/fx.png" group-title="US FTA",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://i.ibb.co/c3Hhwxr/fx.png" group-title="US FTA",FX
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417888
-#EXTINF:-1 tvg-id="History.us" tvg-name="US: HISTORY" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="US FTA",History
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="US FTA",History
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417998
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="US FTA",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="US FTA",MTV
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417898
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US: NAT GEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="US FTA",Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo Wild" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="US FTA",Nat Geo Wild
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418005
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="US FTA",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="US FTA",National Geographic
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
-#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="US FTA",Oxygen
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="US FTA",Oxygen
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417901
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US: PARAMOUNT" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="US FTA",Paramount
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="US FTA",Paramount
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417902
-#EXTINF:-1 tvg-id="PBSWNET.us" tvg-name="US: PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="US FTA",PBS
+#EXTINF:-1 tvg-id="PBSWNET.us" tvg-name="PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="US FTA",PBS
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/683405
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="US FTA",SYFY
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="US FTA",SYFY
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417911
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="US FTA",Tru TV
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="Tru TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="US FTA",Tru TV
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417917
 #EXTINF:-1 tvg-chno="10" tvg-id="10Brisbane.au" tvg-name="Ten" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="Australia",Ten
 https://i.mjh.nz/.r/10-qld.m3u8
@@ -95,23 +95,23 @@ http://sky-glass.live:80/Luke1/Luke2/104060
 http://sky-glass.live:80/Luke1/Luke2/104058
 #EXTINF:-1 tvg-chno="15" tvg-id="rugbypasstv.us" tvg-name="RugbyPass" tvg-logo="https://resources.worldrugby-rims.pulselive.com/worldrugby/photo/2023/08/24/6e1601dd-c342-4e9b-bdff-2d3ac023393c/RugbyPass-TV-Logo.png" group-title="Aus Sport",Rugbypass TV
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:73:19:6E&stream=1536477&extension=ts&play_token=9oykrhCVDk
-#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
+#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Aus Sport",SKY Sport 1
 http://sky-glass.live:80/Luke1/Luke2/622400
-#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="SkySport2.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
+#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="SkySport2" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=3&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 2
 http://sky-glass.live:80/Luke1/Luke2/622401
-#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="SkySport3.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
+#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="SkySport3" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 3
 http://sky-glass.live:80/Luke1/Luke2/622402
-#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="SkySport4.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 4
+#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="SkySport4" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 4
 http://sky-glass.live:80/Luke1/Luke2/622403
-#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="SkySport5.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 5
+#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="SkySport5" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 5
 http://sky-glass.live:80/Luke1/Luke2/622404
-#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="SkySport6.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 6
+#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="SkySport6" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 6
 http://sky-glass.live:80/Luke1/Luke2/622405
-#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="SkySport7.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 7
+#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="SkySport7" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 7
 http://sky-glass.live:80/Luke1/Luke2/622406
-#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="SkySport8.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 8
+#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="SkySport8" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 8
 http://sky-glass.live:80/Luke1/Luke2/622407
-#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="SkySport9.nz" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 9
+#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="SkySport9" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" group-title="Aus Sport",SKY Sport 9
 http://sky-glass.live:80/Luke1/Luke2/622408
 #EXTINF:-1 tvg-chno="22" tvg-id="ESPN.us" tvg-name="ESPN (US)" tvg-logo="https://img.zuzz.tv/assets/channels/0n7d6FQkfkqe7k80zzsD3tZx6vEJuuGahPbzjCGSnk2uSK7SO2.png" group-title="Sport",ESPN (US)
 https://airtel.rkdyiptv.workers.dev/live/254.m3u8
@@ -192,7 +192,7 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418164
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1597020&extension=ts&play_token=KfrodSkzSW
 #EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="SPACE CITY HOME NETWORK" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png" group-title="Sport",Space City Home Network
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418153
-#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="Sport",Altitude Sports
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="Sport",Altitude Sports
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418152
 #EXTINF:-1 tvg-id="NBC.golf" tvg-name="NBC Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/2560px-Golf_Channel_logo_2025.svg.png" group-title="Sport",Golf Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418180
