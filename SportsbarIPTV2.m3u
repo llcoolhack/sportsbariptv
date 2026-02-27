@@ -234,6 +234,10 @@ https://yupptv.rkdyiptv.workers.dev/live/2893.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/3543.m3u8
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Sky Sports News
 https://yupptv.rkdyiptv.workers.dev/live/562.m3u8
+#EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Premier Sports 1
+https://yupptv.rkdyiptv.workers.dev/live/2908.m3u8
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sky Sport UK",Premier Sports 2
+https://yupptv.rkdyiptv.workers.dev/live/2907.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS DETROIT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="Fanduel Sports",Fanduel Sports Detroit
 https://yupptv.rkdyiptv.workers.dev/live/6714.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS FLORIDA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="Fanduel Sports",Fanduel Sports Florida
