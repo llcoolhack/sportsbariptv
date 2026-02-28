@@ -466,18 +466,12 @@ https://airtel.rkdyiptv.workers.dev/live/4411.m3u8
 https://airtel.rkdyiptv.workers.dev/live/4412.m3u8
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 1
 https://airtel.rkdyiptv.workers.dev/live/312.m3u8
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 2
-http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1395686&extension=ts&play_token=NTKNB8sFNW
-#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC 3
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Main Card
+https://airtel.rkdyiptv.workers.dev/live/2449.m3u8
+#EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup
 http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:02:3C:46&stream=1909748&extension=ts&play_token=kahFFk2gwq
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 1
 http://rkdyiptv-yupp24.wasmer.app/play.php?id=2278
-#EXTINF:-1 tvg-id="2277" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 2
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2277
-#EXTINF:-1 tvg-id="3692" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 3
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=3692
-#EXTINF:-1 tvg-id="2673" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 4
-http://rkdyiptv-yupp24.wasmer.app/play.php?id=2673
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/CA-Disney-Channel.png" group-title="Kids",Disney Channel
 http://sky-glass.live:80/Luke1/Luke2/611292
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/CA-Disney-Channel.png" group-title="Kids",24/7 Disney Movies
