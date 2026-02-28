@@ -3,6 +3,12 @@
 https://yupptv.rkdyiptv.workers.dev/live/3543.m3u8
 #EXTINF:-1 tvg-id="PremierSportsRugby.uk" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby 24/7
 http://proxpanel.live:8080/live/Ronald/Ronald1/800010.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="Rugby",Sportsbar Rugby Live 2
+https://airtel.rkdyiptv.workers.dev/live/312.m3u8
+#EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Rugby",Sportsbar Rugby Live 2
+https://yupptv.rkdyiptv.workers.dev/live/2908.m3u8
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Rugby",Sportsbar Rugby Live 3
+https://yupptv.rkdyiptv.workers.dev/live/2907.m3u8
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 1
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60759.m3u8
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
@@ -11,10 +17,38 @@ https://airtel.rkdyiptv.workers.dev/live/252.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/533.m3u8
 #EXTINF:-1 tvg-id="FOXFooty.au"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="AFL",Sportsbar AFL
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60761.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Sportsbar A-League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer", Sportsbar A-League
 https://airtel.rkdyiptv.workers.dev/live/312.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Sportsbar A-League 2
 https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
+#EXTINF:-1 tvg-id="2928" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 1
+https://yupptv.rkdyiptv.workers.dev/live/2928.m3u8
+#EXTINF:-1 tvg-id="2929" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 2
+https://yupptv.rkdyiptv.workers.dev/live/2929.m3u8
+#EXTINF:-1 tvg-id="2930" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 3
+https://yupptv.rkdyiptv.workers.dev/live/2930.m3u8
+#EXTINF:-1 tvg-id="2931" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 4
+https://yupptv.rkdyiptv.workers.dev/live/2931.m3u8
+#EXTINF:-1 tvg-id="2932" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 5
+https://yupptv.rkdyiptv.workers.dev/live/2932.m3u8
+#EXTINF:-1 tvg-id="2933" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 6
+https://yupptv.rkdyiptv.workers.dev/live/2933.m3u8
+#EXTINF:-1 tvg-id="2941" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 7
+https://yupptv.rkdyiptv.workers.dev/live/2934.m3u8
+#EXTINF:-1 tvg-id="2935" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 8
+https://yupptv.rkdyiptv.workers.dev/live/2935.m3u8
+#EXTINF:-1 tvg-id="2936" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 9
+https://yupptv.rkdyiptv.workers.dev/live/2936.m3u8
+#EXTINF:-1 tvg-id="2937" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 10
+https://yupptv.rkdyiptv.workers.dev/live/2937.m3u8
+#EXTINF:-1 tvg-id="3684" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 11
+https://yupptv.rkdyiptv.workers.dev/live/2938.m3u8
+#EXTINF:-1 tvg-id="3685" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 12
+https://yupptv.rkdyiptv.workers.dev/live/2939.m3u8
+#EXTINF:-1 tvg-id="3686" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 13
+https://yupptv.rkdyiptv.workers.dev/live/2940.m3u8
+#EXTINF:-1 tvg-id="3687" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="EPL",EPL 14
+https://yupptv.rkdyiptv.workers.dev/live/2941.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="NBCEastStream.us" tvg-name="NBC" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="US FTA",NBC
 https://airtel.rkdyiptv.workers.dev/live/78.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="US FTA",CBS
