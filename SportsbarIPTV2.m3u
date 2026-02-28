@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live
+https://yupptv.rkdyiptv.workers.dev/live/3543.m3u8
+#EXTINF:-1 tvg-id="PremierSportsRugby.uk" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby 24/7
+http://proxpanel.live:8080/live/Ronald/Ronald1/800010.ts
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 1
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60759.m3u8
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
