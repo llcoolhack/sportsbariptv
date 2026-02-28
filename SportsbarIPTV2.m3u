@@ -3,6 +3,8 @@
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60759.m3u8
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL", Sportsbar NRL 2
 https://airtel.rkdyiptv.workers.dev/live/252.m3u8
+#EXTINF:-1 tvg-id="skysportsaction.uk"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL", Sportsbar NRL 3
+https://yupptv.rkdyiptv.workers.dev/live/533.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="NBCEastStream.us" tvg-name="NBC" tvg-logo="https://img.zuzz.tv/assets/channels/leP0I9zVkdBVQUefXv9iSgvK7vMtNTqlRwNZGST7ED8aHoMcgA.png" group-title="US FTA",NBC
 https://airtel.rkdyiptv.workers.dev/live/78.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="US FTA",CBS
