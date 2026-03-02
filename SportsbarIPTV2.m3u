@@ -320,65 +320,65 @@ https://yupptv.rkdyiptv.workers.dev/live/6726.m3u8
 https://yupptv.rkdyiptv.workers.dev/live/6727.m3u8
 #EXTINF:-1 tvg-id="No details available" tvg-name="FANDUEL SPORTS WISCONSIN 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1280px-FanDuel_Sports_Network_logo.svg.png" group-title="Fanduel Sports",Fanduel Sports Wisconsin
 https://yupptv.rkdyiptv.workers.dev/live/6728.m3u8
-#EXTINF:-1 tvg-id="NBA_ATL" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Hawks.png" group-title="NBA",Atlanta Hawks
+#EXTINF:-1 tvg-id="nba.atlanta-hawks" tvg-logo="https://img.zuzz.tv//logos/teams/Atlanta%20Hawks.png" group-title="NBA",Atlanta Hawks
 https://airtel.rkdyiptv.workers.dev/live/5053.m3u8
-#EXTINF:-1 tvg-id="NBA_BOS" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Celtics.png" group-title="NBA",Boston Celtics
+#EXTINF:-1 tvg-id="nba.boston-celtics" tvg-logo="https://img.zuzz.tv//logos/teams/Boston%20Celtics.png" group-title="NBA",Boston Celtics
 https://airtel.rkdyiptv.workers.dev/live/5054.m3u8
-#EXTINF:-1 tvg-id="NBA_BKN" tvg-logo="https://img.zuzz.tv//logos/teams/Brooklyn%20Nets.png" group-title="NBA",Brooklyn Nets
+#EXTINF:-1 tvg-id="nba.brooklyn-nets" tvg-logo="https://img.zuzz.tv//logos/teams/Brooklyn%20Nets.png" group-title="NBA",Brooklyn Nets
 https://airtel.rkdyiptv.workers.dev/live/5055.m3u8
-#EXTINF:-1 tvg-id="NBA_CHA" tvg-logo="https://img.zuzz.tv//logos/teams/Charlotte%20Hornets.png" group-title="NBA",Charlotte Hornets
+#EXTINF:-1 tvg-id="nba.charlotte-hornets" tvg-logo="https://img.zuzz.tv//logos/teams/Charlotte%20Hornets.png" group-title="NBA",Charlotte Hornets
 https://airtel.rkdyiptv.workers.dev/live/5056.m3u8
-#EXTINF:-1 tvg-id="NBA_CHI" tvg-logo="https://img.zuzz.tv//logos/teams/Chicago%20Bulls.png" group-title="NBA",Chicago Bulls
+#EXTINF:-1 tvg-id="nba.chicago-bulls" tvg-logo="https://img.zuzz.tv//logos/teams/Chicago%20Bulls.png" group-title="NBA",Chicago Bulls
 https://airtel.rkdyiptv.workers.dev/live/5057.m3u8
-#EXTINF:-1 tvg-id="NBA_CLE" tvg-logo="https://img.zuzz.tv//logos/teams/Cleveland%20Cavaliers.png" group-title="NBA",Cleveland Cavaliers
+#EXTINF:-1 tvg-id="nba.cleveland-cavaliers" tvg-logo="https://img.zuzz.tv//logos/teams/Cleveland%20Cavaliers.png" group-title="NBA",Cleveland Cavaliers
 https://airtel.rkdyiptv.workers.dev/live/5058.m3u8
-#EXTINF:-1 tvg-id="NBA_DAL" tvg-logo="https://img.zuzz.tv//logos/teams/Dallas%20Mavericks.png" group-title="NBA",Dallas Mavericks
+#EXTINF:-1 tvg-id="nba.dallas-mavericks" tvg-logo="https://img.zuzz.tv//logos/teams/Dallas%20Mavericks.png" group-title="NBA",Dallas Mavericks
 https://airtel.rkdyiptv.workers.dev/live/5059.m3u8
-#EXTINF:-1 tvg-id="NBA_DEN" tvg-logo="https://img.zuzz.tv//logos/teams/Denver%20Nuggets.png" group-title="NBA",Denver Nuggets
+#EXTINF:-1 tvg-id="nba.denver-nuggets" tvg-logo="https://img.zuzz.tv//logos/teams/Denver%20Nuggets.png" group-title="NBA",Denver Nuggets
 https://airtel.rkdyiptv.workers.dev/live/5060.m3u8
-#EXTINF:-1 tvg-id="NBA_DET" tvg-logo="https://img.zuzz.tv//logos/teams/Detroit%20Pistons.png" group-title="NBA",Detroit Pistons
+#EXTINF:-1 tvg-id="nba.detroit-pistons" tvg-logo="https://img.zuzz.tv//logos/teams/Detroit%20Pistons.png" group-title="NBA",Detroit Pistons
 https://airtel.rkdyiptv.workers.dev/live/5061.m3u8
-#EXTINF:-1 tvg-id="NBA_GSW" tvg-logo="https://img.zuzz.tv//logos/teams/Golden%20State%20Warriors.png" group-title="NBA",Golden State Warriors
+#EXTINF:-1 tvg-id="nba.golden-state-warriors" tvg-logo="https://img.zuzz.tv//logos/teams/Golden%20State%20Warriors.png" group-title="NBA",Golden State Warriors
 https://airtel.rkdyiptv.workers.dev/live/5062.m3u8
-#EXTINF:-1 tvg-id="NBA_HOU" tvg-logo="https://img.zuzz.tv//logos/teams/Houston%20Rockets.png" group-title="NBA",Houston Rockets
+#EXTINF:-1 tvg-id="nba.houston-rockets" tvg-logo="https://img.zuzz.tv//logos/teams/Houston%20Rockets.png" group-title="NBA",Houston Rockets
 https://airtel.rkdyiptv.workers.dev/live/5063.m3u8
-#EXTINF:-1 tvg-id="NBA_IND" tvg-logo="https://img.zuzz.tv//logos/teams/Indiana%20Pacers.png" group-title="NBA",Indiana Pacers
+#EXTINF:-1 tvg-id="nba.indiana-pacers" tvg-logo="https://img.zuzz.tv//logos/teams/Indiana%20Pacers.png" group-title="NBA",Indiana Pacers
 https://airtel.rkdyiptv.workers.dev/live/5064.m3u8
-#EXTINF:-1 tvg-id="NBA_LAL" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Lakers.png" group-title="NBA",Los Angeles Lakers
+#EXTINF:-1 tvg-id="nba.los-angeles-lakers" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Lakers.png" group-title="NBA",Los Angeles Lakers
 https://airtel.rkdyiptv.workers.dev/live/5065.m3u8
-#EXTINF:-1 tvg-id="NBA_LAC" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Clippers.png" group-title="NBA",Los Angeles Clippers
+#EXTINF:-1 tvg-id="nba.la-clippers" tvg-logo="https://img.zuzz.tv//logos/teams/Los%20Angeles%20Clippers.png" group-title="NBA",Los Angeles Clippers
 https://airtel.rkdyiptv.workers.dev/live/5066.m3u8
-#EXTINF:-1 tvg-id="NBA_MEM" tvg-logo="https://img.zuzz.tv//logos/teams/Memphis%20Grizzlies.png" group-title="NBA",Memphis Grizzlies
+#EXTINF:-1 tvg-id="nba.memphis-grizzlies" tvg-logo="https://img.zuzz.tv//logos/teams/Memphis%20Grizzlies.png" group-title="NBA",Memphis Grizzlies
 https://airtel.rkdyiptv.workers.dev/live/5067.m3u8
-#EXTINF:-1 tvg-id="NBA_MIA" tvg-logo="https://img.zuzz.tv//logos/teams/Miami%20Heat.png" group-title="NBA",Miami Heat
+#EXTINF:-1 tvg-id="nba.miami-heat" tvg-logo="https://img.zuzz.tv//logos/teams/Miami%20Heat.png" group-title="NBA",Miami Heat
 https://airtel.rkdyiptv.workers.dev/live/5068.m3u8
-#EXTINF:-1 tvg-id="NBA_MIL" tvg-logo="https://img.zuzz.tv//logos/teams/Milwaukee%20Bucks.png" group-title="NBA",Milwaukee Bucks
+#EXTINF:-1 tvg-id="nba.milwaukee-bucks" tvg-logo="https://img.zuzz.tv//logos/teams/Milwaukee%20Bucks.png" group-title="NBA",Milwaukee Bucks
 https://airtel.rkdyiptv.workers.dev/live/5069.m3u8
-#EXTINF:-1 tvg-id="NBA_MIN" tvg-logo="https://img.zuzz.tv//logos/teams/Minnesota%20Timberwolves.png" group-title="NBA",Minnesota Timberwolves
+#EXTINF:-1 tvg-id="nba.minnesota-timberwolves" tvg-logo="https://img.zuzz.tv//logos/teams/Minnesota%20Timberwolves.png" group-title="NBA",Minnesota Timberwolves
 https://airtel.rkdyiptv.workers.dev/live/5070.m3u8
-#EXTINF:-1 tvg-id="NBA_NOP" tvg-logo="https://img.zuzz.tv//logos/teams/New%20Orleans%20Pelicans.png" group-title="NBA",New Orleans Pelicans
+#EXTINF:-1 tvg-id="nba.new-orleans-pelicans" tvg-logo="https://img.zuzz.tv//logos/teams/New%20Orleans%20Pelicans.png" group-title="NBA",New Orleans Pelicans
 https://airtel.rkdyiptv.workers.dev/live/5071.m3u8
-#EXTINF:-1 tvg-id="NBA_NYK" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Knicks.png" group-title="NBA",New York Knicks
+#EXTINF:-1 tvg-id="nba.new-york-knicks" tvg-logo="https://img.zuzz.tv//logos/teams/New%20York%20Knicks.png" group-title="NBA",New York Knicks
 https://airtel.rkdyiptv.workers.dev/live/5072.m3u8
-#EXTINF:-1 tvg-id="NBA_OKC" tvg-logo="https://img.zuzz.tv//logos/teams/Oklahoma%20City%20Thunder.png" group-title="NBA",Oklahoma City Thunder
+#EXTINF:-1 tvg-id="nba.oklahoma-city-thunder" tvg-logo="https://img.zuzz.tv//logos/teams/Oklahoma%20City%20Thunder.png" group-title="NBA",Oklahoma City Thunder
 https://airtel.rkdyiptv.workers.dev/live/5073.m3u8
-#EXTINF:-1 tvg-id="NBA_ORL" tvg-logo="https://img.zuzz.tv//logos/teams/Orlando%20Magic.png" group-title="NBA",Orlando Magic
+#EXTINF:-1 tvg-id="nba.orlando-magic" tvg-logo="https://img.zuzz.tv//logos/teams/Orlando%20Magic.png" group-title="NBA",Orlando Magic
 https://airtel.rkdyiptv.workers.dev/live/5074.m3u8
-#EXTINF:-1 tvg-id="NBA_PHI" tvg-logo="https://img.zuzz.tv//logos/teams/Philadelphia%2076ers.png" group-title="NBA",Philadelphia 76ers
+#EXTINF:-1 tvg-id="nba.philadelphia-76ers" tvg-logo="https://img.zuzz.tv//logos/teams/Philadelphia%2076ers.png" group-title="NBA",Philadelphia 76ers
 https://airtel.rkdyiptv.workers.dev/live/5075.m3u8
-#EXTINF:-1 tvg-id="NBA_PHX" tvg-logo="https://img.zuzz.tv//logos/teams/Phoenix%20Suns.png" group-title="NBA",Phoenix Suns
+#EXTINF:-1 tvg-id="nba.phoenix-suns" tvg-logo="https://img.zuzz.tv//logos/teams/Phoenix%20Suns.png" group-title="NBA",Phoenix Suns
 https://airtel.rkdyiptv.workers.dev/live/5076.m3u8
-#EXTINF:-1 tvg-id="NBA_POR" tvg-logo="https://img.zuzz.tv//logos/teams/Portland%20Trail%20Blazers.png" group-title="NBA",Portland Trail Blazers
+#EXTINF:-1 tvg-id="nba.portland-trail-blazers" tvg-logo="https://img.zuzz.tv//logos/teams/Portland%20Trail%20Blazers.png" group-title="NBA",Portland Trail Blazers
 https://airtel.rkdyiptv.workers.dev/live/5077.m3u8
-#EXTINF:-1 tvg-id="NBA_SAC" tvg-logo="https://img.zuzz.tv//logos/teams/Sacramento%20Kings.png" group-title="NBA",Sacramento Kings
+#EXTINF:-1 tvg-id="nba.sacramento-kings" tvg-logo="https://img.zuzz.tv//logos/teams/Sacramento%20Kings.png" group-title="NBA",Sacramento Kings
 hhttps://airtel.rkdyiptv.workers.dev/live/5078.m3u8
-#EXTINF:-1 tvg-id="NBA_SAS" tvg-logo="https://img.zuzz.tv//logos/teams/San%20Antonio%20Spurs.png" group-title="NBA",San Antonio Spurs
+#EXTINF:-1 tvg-id="nba.san-antonio-spurs" tvg-logo="https://img.zuzz.tv//logos/teams/San%20Antonio%20Spurs.png" group-title="NBA",San Antonio Spurs
 https://airtel.rkdyiptv.workers.dev/live/5079.m3u8
-#EXTINF:-1 tvg-id="NBA_TOR" tvg-logo="https://img.zuzz.tv//logos/teams/Toronto%20Raptors.png" group-title="NBA",Toronto Raptors
+#EXTINF:-1 tvg-id="nba.toronto-raptors" tvg-logo="https://img.zuzz.tv//logos/teams/Toronto%20Raptors.png" group-title="NBA",Toronto Raptors
 https://airtel.rkdyiptv.workers.dev/live/5080.m3u8
-#EXTINF:-1 tvg-id="NBA_UTA" tvg-logo="https://img.zuzz.tv//logos/teams/Utah%20Jazz.png" group-title="NBA",Utah Jazz
+#EXTINF:-1 tvg-id="nba.utah-jazz" tvg-logo="https://img.zuzz.tv//logos/teams/Utah%20Jazz.png" group-title="NBA",Utah Jazz
 https://airtel.rkdyiptv.workers.dev/live/5081.m3u8
-#EXTINF:-1 tvg-id="NBA_WAS" tvg-logo="https://img.zuzz.tv//logos/teams/Washington%20Wizards.png" group-title="NBA",Washington Wizards
+#EXTINF:-1 tvg-id="nba.washington-wizards" tvg-logo="https://img.zuzz.tv//logos/teams/Washington%20Wizards.png" group-title="NBA",Washington Wizards
 https://airtel.rkdyiptv.workers.dev/live/5082.m3u8
 #EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="Ducks" tvg-logo="https://img.zuzz.tv//logos/teams/Anaheim%20Ducks.png" group-title="Fellas Teams" parent-code="Fellas Teams",Anaheim Ducks
 https://airtel.rkdyiptv.workers.dev/live/4989.m3u8
