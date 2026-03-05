@@ -10,7 +10,7 @@ https://yupptv.rkdyiptv.workers.dev/live/2908.m3u8
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live 4
 https://yupptv.rkdyiptv.workers.dev/live/2907.m3u8
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 1
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/60759.m3u8
+http://4can.net:80/445566/445566/153188
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
 https://airtel.rkdyiptv.workers.dev/live/252.m3u8
 #EXTINF:-1 tvg-id="skysportsaction.uk"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 3
