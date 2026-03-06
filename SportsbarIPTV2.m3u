@@ -10,7 +10,7 @@ https://yupptv.rkdyiptv.workers.dev/live/2908.m3u8
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live 4
 https://yupptv.rkdyiptv.workers.dev/live/2907.m3u8
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 1
-http://chasintv.vip/live/Robert/123456/152323.ts
+http://sky-glass.live:80/Luke1/Luke2/839343
 #EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
 http://sky-glass.live:80/Luke1/Luke2/622400
 #EXTINF:-1 tvg-id="skysportsaction.uk"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 3
@@ -130,7 +130,7 @@ http://eagle1903.com:80/play/live.php?mac=00:1A:79:46:56:73&stream=646972&extens
 #EXTINF:-1 tvg-chno="1" tvg-id="FOXCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Cricket
 https://airtel.rkdyiptv.workers.dev/live/1972.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="FOXLeague.au" tvg-name="Fox League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/2560px-Fox_league.svg.png" group-title="Aus Sport",Fox League
-http://chasintv.vip/live/Robert/123456/152323.ts
+http://sky-glass.live:80/Luke1/Luke2/839343
 #EXTINF:-1 tvg-id="FOXSPORTS503.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=200&appID=GO2" group-title="Aus Sport",Fox Sports 503
 http://chasintv.vip/live/Robert/123456/152322.ts
 #EXTINF:-1 tvg-chno="4" tvg-id="FOXFOOTY.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="Aus Sport",Fox Footy
