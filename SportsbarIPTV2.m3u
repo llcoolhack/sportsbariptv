@@ -66,7 +66,9 @@ https://airtel.rkdyiptv.workers.dev/live/118.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="USANetwork.us" tvg-name="USA" tvg-logo="https://img.zuzz.tv/assets/channels/j6IDLeDYF3QFLoNE2vHQEu7SZcvNFt0QnHmApJqckwuHlcOJhx.png" group-title="US FTA",USA
 https://airtel.rkdyiptv.workers.dev/live/85.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="" tvg-name="Jeopardy" tvg-logo="https://logos-world.net/wp-content/uploads/2022/07/Jeopardy-Symbol-700x394.png" group-title="US FTA",Jeopardy
-http://sky-glass.live:80/Luke1/Luke2/970321
+http://chasintv.vip:80/George1/George2/807736
+#EXTINF:-1 tvg-chno="22" tvg-id="" tvg-name="Jeopardy" tvg-logo="https://logos-world.net/wp-content/uploads/2022/07/Jeopardy-Symbol-700x394.png" group-title="US FTA",Jeopardy 24/7
+http://chasintv.vip:80/George1/George2/91003
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="US FTA",A&E
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417871
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="US FTA",AMC
