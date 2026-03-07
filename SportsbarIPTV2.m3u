@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PremierSportsRugby.uk" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby 24/7
 http://chasintv.vip/live/Robert/123456/800010.ts
 #EXTINF:-1 tvg-id="skysportsplus.uk" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live
-https://yupptv.rkdyiptv.workers.dev/live/3543.m3u8
+http://line.andpor.com:80/play/live.php?mac=00:1A:79:DA:30:C6&stream=83455&extension=ts&play_token=0HlI0CdBfB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live 2
 https://airtel.rkdyiptv.workers.dev/live/312.m3u8
 #EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live 3
