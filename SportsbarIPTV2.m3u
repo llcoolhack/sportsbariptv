@@ -484,26 +484,6 @@ https://airtel.rkdyiptv.workers.dev/live/2449.m3u8
 http://sky-glass.live:80/Jason1/Jason2/405657
 #EXTINF:-1 tvg-id="475230" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC",UFC Backup 1
 http://sky-glass.live:80/Jason1/Jason2/35796
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="01. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",01. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878426
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="02. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",02. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878425
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="03. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",03. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878424
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="04. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",04. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878423
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="05. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",05. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878422
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="06. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",06. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878421
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="07. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",07. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878420
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="08. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | UFC 326",08. UFC 326 | Max Holloway vs. Charles Oliveira (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/878419
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UFC 326 | Max Holloway vs. Charles Oliveira FHD (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | PPV Events",UFC 326 | Max Holloway vs. Charles Oliveira FHD (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/323540
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UFC 326 | Max Holloway vs. Charles Oliveira HD (Sun 02:00 UK)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2026/03/UFC326.jpg" group-title="LIVE | PPV Events",UFC 326 | Max Holloway vs. Charles Oliveira HD (Sun 02:00 UK)
-http://sky-glass.live:80/Jason1/Jason2/323541
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/CA-Disney-Channel.png" group-title="Kids",Disney Channel
 http://sky-glass.live:80/Luke1/Luke2/611292
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/CA-Disney-Channel.png" group-title="Kids",24/7 Disney Movies
