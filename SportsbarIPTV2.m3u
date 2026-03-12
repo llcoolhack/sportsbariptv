@@ -25,6 +25,16 @@ https://yupptv.rkdyiptv.workers.dev/live/536.m3u8
 https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Sportsbar A-League 2
 https://airtel.rkdyiptv.workers.dev/live/312.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Roar v WSW
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/785102.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Phoenix v Glory
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/785103.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Mariners v United
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/785104.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Jets v Auckland
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/785105.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Victory v MacArthur
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798631.ts
 #EXTINF:-1 tvg-id="2928" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="Soccer",EPL 1
 https://yupptv.rkdyiptv.workers.dev/live/2928.m3u8
 #EXTINF:-1 tvg-id="2929" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="Soccer",EPL 2
