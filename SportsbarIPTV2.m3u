@@ -18,7 +18,7 @@ http://sky-glass.live:80/Luke1/Luke2/622401
 #EXTINF:-1 tvg-id=""" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",BRL: Carina v Souths
 https://d103pb30wwhy0i.cloudfront.net/17793/ryeohl40f/index.m3u8
 #EXTINF:-1 tvg-id=""" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",QLD Cup: Tigers v Capras
-awaiting stream
+https://d3th06b93xpzrt.cloudfront.net/out/v1/7f75d99c5e744f46ba7b5e32470cc57d/index.m3u8?start=2026-03-14T04:47:16+00:00&aws.manifestfilter=video_bitrate:0-4000000
 #EXTINF:-1 tvg-id="FOXFooty.au"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="AFL",Sportsbar AFL
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/793017.ts
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Sportsbar Premier League
