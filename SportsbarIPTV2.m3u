@@ -12,7 +12,7 @@ http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/793015.m3u8
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL Backup
 http://sky-glass.live:80/Jason1/Jason2/313504
 #EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
-http://sky-glass.live:80/Luke1/Luke2/622400
+http://tivimate.in:80/play/live.php?mac=00:1A:79:B3:FB:76&stream=1520171&extension=ts&play_token=OjnS9wKFcx
 #EXTINF:-1 tvg-id="skysportsaction.uk"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 3
 http://sky-glass.live:80/Luke1/Luke2/622401
 #EXTINF:-1 tvg-id="FOXFooty.au"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="AFL",Sportsbar AFL
@@ -23,8 +23,6 @@ https://yupptv.rkdyiptv.workers.dev/live/536.m3u8
 https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Sportsbar A-League 2
 https://airtel.rkdyiptv.workers.dev/live/312.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Victory v MacArthur
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798631.ts
 #EXTINF:-1 tvg-id="2928" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="Soccer",EPL 1
 https://yupptv.rkdyiptv.workers.dev/live/2928.m3u8
 #EXTINF:-1 tvg-id="2929" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/Premier-League-Logo-500x281.png" group-title="Soccer",EPL 2
