@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
+#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",NCAA Baseball: USC v Washington Game 1
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/796999.m3u8
+#EXTINF:-1 tvg-id="USCBaseball2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",NCAA Baseball: USC v Washington Game 2
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798236.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="March Madness",CBS
 https://airtel.rkdyiptv.workers.dev/live/79.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://img.zuzz.tv/assets/channels/8xATOcQY2eBC8e4MoBuYkunNjerUuTIf8kIQck1kxz7nqFAZXC.png" group-title="March Madness",TBS
@@ -438,10 +442,6 @@ https://airtel.rkdyiptv.workers.dev/live/5007.m3u8
 https://airtel.rkdyiptv.workers.dev/live/2359.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mets" tvg-logo="https://img.zuzz.tv//logos/teams/Orlando%20Magic.png" group-title="Fellas Teams" parent-code="Fellas Teams",Orlando Magic
 https://airtel.rkdyiptv.workers.dev/live/5074.m3u8
-#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",NCAA Baseball: USC v Washington Game 1
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/796999.m3u8
-#EXTINF:-1 tvg-id="USCBaseball2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",NCAA Baseball: USC v Washington Game 2
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798236.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 1
 https://airtel.rkdyiptv.workers.dev/live/4895.m3u8
 #EXTINF:-1 tvg-id="3688" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="Stan Sport",Stan Sport 2
