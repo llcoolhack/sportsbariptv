@@ -15,18 +15,18 @@ http://proxpanel.live/live/Ronald/Ronald1/276933.ts
 https://yupptv.rkdyiptv.workers.dev/live/2908.m3u8
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live 4
 https://yupptv.rkdyiptv.workers.dev/live/2907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Highlanders v Hurricanes
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/776844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(FLSP 367) | florugby: 2026 Mitsubishi Sagamihara Dynaboars vs Tokyo Sungoliath (Dynaboars vs Sungoliath) (2026-03-20 23:00:00)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png" group-title="Rugby",Mitsubishi Sagamihara Dynaboars vs Tokyo Sungoliath
+http://websafety101.net:5050/leedale@nycap.rr.com/mY8TwKjP3J/786747
+#EXTINF:-1 tvg-id="" tvg-name="(FLSP 368) | florugby: 2026 Saitama Wild Knights vs BlackRams (Wild Knights vs BlackRams) (2026-03-21 01:30:00)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png" group-title="Rugby",Saitama Wild Knights vs BlackRams
+http://websafety101.net:5050/leedale@nycap.rr.com/mY8TwKjP3J/786748
+#EXTINF:-1 tvg-id="" tvg-name="(FLSP 369) | florugby: 2026 Urayasu D_Rocks vs Kubota Spears (D_Rocks vs Spears) (2026-03-21 01:30:05)" tvg-logo="https://d2779tscntxxsw.cloudfront.net/FloRugby-Logo-Overlay.png" group-title="Rugby",Urayasu D_Rocks vs Kubota Spears
+http://websafety101.net:5050/leedale@nycap.rr.com/mY8TwKjP3J/786749
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 1
 https://a1xs.vip/700002
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/793015.m3u8
 #EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 3
 http://tivimate.in:80/play/live.php?mac=00:1A:79:B3:FB:76&stream=1520171&extension=ts&play_token=OjnS9wKFcx
-#EXTINF:-1 tvg-id="skysportsaction.uk"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Roosters v Panthers
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SkySport1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Storm v Broncos
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798684.m3u8
 #EXTINF:-1 tvg-id=""" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Knights v Warriors
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798685.m3u8
 #EXTINF:-1 tvg-id=""" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sharks v Dolphins
