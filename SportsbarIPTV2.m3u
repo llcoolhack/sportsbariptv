@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
-#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",NCAA Baseball: USC v Washington Game 1
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/796999.m3u8
+#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Tigers v Jets
+https://d3th06b93xpzrt.cloudfront.net/out/v1/4bc95d9b858749f7aa2c8ba38e3ffd6d/index.m3u8?start=2026-03-22T04:55:31+00:00&aws.manifestfilter=video_bitrate:0-4000000
 #EXTINF:-1 tvg-id="USCBaseball2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",NCAA Baseball: USC v Washington Game 2
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/798236.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="CBS(West).us" tvg-name="CBS" tvg-logo="https://img.zuzz.tv/assets/channels/CBS.png" group-title="March Madness",CBS
