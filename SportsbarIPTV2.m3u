@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
+#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",UFC 327
+http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/799612.ts
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",SNY
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/418162.ts
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",PIX11
