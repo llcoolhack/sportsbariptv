@@ -1,14 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",SNY
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/418162.ts
-#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",SNY 2
 http://a47.streamtrx.xyz:80/play/live.php?mac=A0:BB:3E:04:A6:D0&stream=174945&extension=ts&play_token=csMGDRJELO
-#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",B10
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/433792.ts
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",PIX11
 http://bgdc.live:25461/123456/031768/99234
-#EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",USC Baseball
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/796415.ts
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Brisbane Tigers
 https://d3th06b93xpzrt.cloudfront.net/out/v1/da370970d97f458697078df41be45270/index.m3u8?start=2026-05-09T06:45:26+00:00&aws.manifestfilter=video_bitrate:0-4000000
 https://github.com/llcoolhack/sportsbariptv/blob/main/tigersplaceholder.png?raw=true
@@ -21,11 +15,7 @@ https://yupptv.rkdyiptv.workers.dev/live/2908.m3u8
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Rugby",Sportsbar Rugby Live 4
 https://yupptv.rkdyiptv.workers.dev/live/2907.m3u8
 #EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 1
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/793015.ts
-#EXTINF:-1 tvg-id="FOXLeague.au" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 2
-http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/793015.m3u8
-#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="SkySport1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="NRL",Sportsbar NRL 3
-http://tivimate.in:80/play/live.php?mac=00:1A:79:B3:FB:76&stream=1520171&extension=ts&play_token=OjnS9wKFcx
+http://a47.streamtrx.xyz:80/play/live.php?mac=A0:BB:3E:04:A6:D0&stream=1520171&extension=ts&play_token=H6Sg6aFjvb
 #EXTINF:-1 tvg-id="FOXFooty.au"" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="AFL",Sportsbar AFL
 http://websafety101.net:5050/live/leedale%40nycap.rr.com/mY8TwKjP3J/793017.ts
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Soccer",Sportsbar Premier League
