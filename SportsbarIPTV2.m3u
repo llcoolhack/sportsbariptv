@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8r57zcq1d56yg1v"
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",SNY
-http://a47.streamtrx.xyz:80/play/live.php?mac=A0:BB:3E:04:A6:D0&stream=174945&extension=ts&play_token=csMGDRJELO
+http://famestream.space:8080/live/07010358/94921865/1000079.ts
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",PIX11
 http://bgdc.live:25461/123456/031768/99234
 #EXTINF:-1 tvg-id="USCBaseball1" tvg-logo="https://raw.githubusercontent.com/llcoolhack/sportsbariptv/refs/heads/main/Sportsbar+Colour.png" group-title="Sportsbar",Brisbane Tigers
